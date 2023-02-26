@@ -1,0 +1,6183 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ArcHub\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-06 15:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: archub"
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:36
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: Title Tag 2: Theme Name 3: Closing Title Tag
+#: liquid/libs/merlin/merlin-config.php:41
+#, php-format
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr ""
+
+#: templates/entry-meta.php:2 templates/entry-meta.php:3
+#: templates/content/content.php:87 templates/blog/content-excerpt.php:42
+#: templates/blog/single/part-head.php:91
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: templates/related-post.php:42
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#: liquid/liquid-helpers.php:851 templates/comment/ping.php:7
+#: templates/comment/comment.php:11
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#. Theme Name
+#: liquid/libs/merlin/merlin-config.php:60
+#, php-format
+msgid "%s is Activated"
+msgstr ""
+
+#: liquid/liquid-meta-boxes-init.php:70
+#, php-format
+msgid "%s Options"
+msgstr ""
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: bbpress/user-details.php:48
+#, php-format
+msgid "%s's Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:29
+#, php-format
+msgid "%s's Profile"
+msgstr ""
+
+#: bbpress/user-details.php:41
+#, php-format
+msgid "%s's Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:58
+#, php-format
+msgid "%s's Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:35
+#, php-format
+msgid "%s's Topics Started"
+msgstr ""
+
+#: bbpress/form-topic.php:117
+msgid "(No Forum)"
+msgstr ""
+
+#: bbpress/form-forum.php:123
+msgid "(No Parent)"
+msgstr ""
+
+#: liquid/admin/views/liquid-demos.php:90
+msgid "0%"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:34
+#: woocommerce/checkout/thankyou.php:26 woocommerce/cart/cart.php:26
+msgid "1"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:69
+#: theme/theme-options/liquid-blog.php:239
+#: theme/theme-options/liquid-blog.php:395
+#: theme/theme-options/liquid-blog.php:550
+msgid "1 Column"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:194
+#: theme/metaboxes/liquid-woocommerce.php:35
+msgid "10 columns - 5/6"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:195
+#: theme/metaboxes/liquid-woocommerce.php:36
+msgid "11 columns - 11/12"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:196
+#: theme/metaboxes/liquid-woocommerce.php:37
+msgid "12 columns - 12/12"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:42
+#: woocommerce/checkout/thankyou.php:34 woocommerce/cart/cart.php:34
+msgid "2"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:70
+#: theme/theme-options/liquid-blog.php:240
+#: theme/theme-options/liquid-blog.php:396
+#: theme/theme-options/liquid-blog.php:551
+msgid "2 Columns"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:186
+#: theme/metaboxes/liquid-woocommerce.php:27
+msgid "2 columns - 1/6"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:50
+#: woocommerce/checkout/thankyou.php:42 woocommerce/cart/cart.php:42
+msgid "3"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:71
+#: theme/theme-options/liquid-blog.php:241
+#: theme/theme-options/liquid-blog.php:397
+#: theme/theme-options/liquid-blog.php:552
+msgid "3 Columns"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:187
+#: theme/metaboxes/liquid-woocommerce.php:28
+msgid "3 columns - 1/4"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:72
+#: theme/theme-options/liquid-blog.php:242
+#: theme/theme-options/liquid-blog.php:398
+#: theme/theme-options/liquid-blog.php:553
+msgid "4 Columns"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:188
+#: theme/metaboxes/liquid-woocommerce.php:29
+msgid "4 columns - 1/3"
+msgstr ""
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:161
+msgid "404 Not Found"
+msgstr ""
+
+#: theme/theme-options/liquid-page-404.php:7
+msgid "404 Page"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:189
+#: theme/metaboxes/liquid-woocommerce.php:30
+msgid "5 columns - 5/12"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:190
+#: theme/metaboxes/liquid-woocommerce.php:31
+msgid "6 columns - 1/2"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:191
+#: theme/metaboxes/liquid-woocommerce.php:32
+msgid "7 columns - 7/12"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:192
+#: theme/metaboxes/liquid-woocommerce.php:33
+msgid "8 columns - 2/3"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:193
+#: theme/metaboxes/liquid-woocommerce.php:34
+msgid "9 columns - 3/4"
+msgstr ""
+
+#: liquid/liquid-helpers.php:109
+#, php-format
+msgid "<code>%s</code> does not exist."
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:110
+msgid ""
+"<p>Our team is working hard to be able to back in a couple hours. <br> "
+"Thanks for your patience.</p>"
+msgstr ""
+
+#: liquid/admin/liquid-admin-init.php:117
+msgid "<span class=\"dashicons dashicons-info\"></span> Reset"
+msgstr ""
+
+#: liquid/admin/liquid-admin-init.php:122
+msgid "<span class=\"dashicons dashicons-warning\"></span> Warning"
+msgstr ""
+
+#: theme/liquid-template-tags.php:809
+#, php-format
+msgid ""
+"<span><i class=\"fa fa-heart\"></i> <span class=\"post-likes-count\">"
+"%s</span></span>"
+msgstr ""
+
+#: liquid/admin/updater/liquid-updater-class.php:73
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</a>"
+"."
+msgstr ""
+
+#: liquid/liquid-base.php:57
+#, php-format
+msgid ""
+"<strong>Extension Load Fail for:</strong> %1$s<br>No such file \"%2$s\" "
+"exists."
+msgstr ""
+
+#: bbpress/form-reply-move.php:68 bbpress/form-topic-merge.php:89
+#: bbpress/form-topic-split.php:93
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: search.php:34 theme/category-blog.php:159 theme/liquid-blog.php:150
+#: theme/liquid-portfolio.php:103 theme/author-blog.php:157
+#: theme/tag-blog.php:164 templates/portfolio-layout.php:22
+#: templates/blog-layout.php:22 templates/category-layout.php:22
+#: templates/author-layout.php:22 templates/tag-layout.php:22
+msgid ""
+"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"32\" "
+"viewBox=\"0 0 12 32\" style=\"width: 1em; height: 1em;\"><path "
+"fill=\"currentColor\" d=\"M3.625 16l7.938 7.938c.562.562.562 1.562 0 2.125-."
+"313.312-.688.437-1.063.437s-.75-.125-1.063-.438L.376 17c-.563-.563-.5-1.5."
+"063-2.063l9-9c.562-.562 1.562-.562 2.124 0s.563 1.563 0 2.125z\"></path>"
+"</svg>"
+msgstr ""
+
+#: search.php:35 theme/category-blog.php:160 theme/liquid-blog.php:151
+#: theme/liquid-portfolio.php:104 theme/author-blog.php:158
+#: theme/tag-blog.php:165 templates/portfolio-layout.php:23
+#: templates/blog-layout.php:23 templates/category-layout.php:23
+#: templates/author-layout.php:23 templates/tag-layout.php:23
+msgid ""
+"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"32\" "
+"viewBox=\"0 0 12 32\" style=\"width: 1em; height: 1em;\"><path "
+"fill=\"currentColor\" d=\"M8.375 16L.437 8.062C-.125 7.5-.125 6.5.438 5."
+"938s1.563-.563 2.126 0l9 9c.562.562.624 1.5.062 2.062l-9.063 9.063c-.312.312-"
+".687.437-1.062.437s-.75-.125-1.063-.438c-.562-.562-.562-1.562 0-2.125z\">"
+"</path></svg>"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:512
+msgid ""
+"[ld_author] shortcode displays the corresponding the author name, any text "
+"can be added before or after the shortcode."
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:33
+msgid "[ld_category_title]"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:31
+msgid ""
+"[ld_category_title] shortcode displays the corresponding category title, any "
+"text can be added before or after the shortcode."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:199
+msgid ""
+"[ld_category_title] shortcode displays the corresponding the category title, "
+"any text can be added before or after the shortcode."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:357
+msgid ""
+"[ld_tag_title] shortcode displays the corresponding the category title, any "
+"text can be added before or after the shortcode."
+msgstr ""
+
+#: templates/blog/single/part-author.php:50
+msgid "About the Author"
+msgstr ""
+
+#: bbpress/form-user-edit.php:74 bbpress/form-user-edit.php:77
+msgid "About the user"
+msgstr ""
+
+#: bbpress/form-user-edit.php:74 bbpress/form-user-edit.php:77
+msgid "About Yourself"
+msgstr ""
+
+#: theme/metaboxes/liquid-sliders.php:65
+msgid "Above"
+msgstr ""
+
+#: theme/liquid-hooks.php:968 theme/theme-options/liquid-gdpr.php:32
+#: theme/theme-options/liquid-gdpr.php:33
+msgid "Accept"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:30
+msgid "Accept Button Text"
+msgstr ""
+
+#: bbpress/form-user-edit.php:90 bbpress/form-user-edit.php:93
+msgid "Account"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:53
+msgid "Activate"
+msgstr ""
+
+#: liquid/vendors/woocommerce/options.php:16
+msgid "Activate Global Sidebar For Products"
+msgstr ""
+
+#. Theme Name
+#: liquid/libs/merlin/merlin-config.php:57
+msgid "Activate Theme"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:58
+msgid "Activate Your Theme"
+msgstr ""
+
+#: liquid/admin/liquid-admin-init.php:322 liquid/admin/views/liquid-tabs.php:16
+msgid "Activation"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:269
+msgid "Active Arrow Color"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:257
+msgid "Active Circle Background Color"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:245
+msgid "Active Circle Text Color"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:233
+#: theme/theme-options/liquid-header-menu.php:52
+msgid "Active Color"
+msgstr ""
+
+#: liquid/admin/views/liquid-plugins.php:68
+msgid "Active:"
+msgstr ""
+
+#: theme/liquid-demo-config.php:17
+msgid "Adaptive"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:587
+msgid "Add a prefix for the icon, will add as classname for all icons."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:517
+msgid "Add a scroll indicator inside the back to top button."
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:20
+msgid "Add a Sidebar"
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:75
+msgid "Add buttons to display in header"
+msgstr ""
+
+#: theme/theme-options/liquid-typography.php:20
+msgid "Add Custom Fonts"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:559
+msgid "Add Custom Icons"
+msgstr ""
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:108
+msgid "Add Dropcap"
+msgstr ""
+
+#: liquid/vendors/woocommerce/functions.php:876
+msgid "Add header notice in yellow box"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:173
+msgid "Add queue or dequeue custom scripts"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:14
+msgid "Add sidebars"
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:26
+msgid "Add social links to display in header"
+msgstr ""
+
+#: woocommerce/content-single-product.php:132
+msgid "Added to the cart!"
+msgstr ""
+
+#: theme/liquid-hooks.php:1383
+msgid "Added {{itemName}} to cart"
+msgstr ""
+
+#: woocommerce/content-single-product.php:129
+msgid "Adding product to the cart!"
+msgstr ""
+
+#: theme/liquid-hooks.php:1382
+msgid "Adding {{itemName}} to cart"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:57
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr ""
+
+#: theme/theme-options/liquid-advanced.php:7
+#: liquid/libs/merlin/merlin-config.php:90
+msgid "Advanced"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:135
+#: theme/theme-options/liquid-portfolio.php:142
+msgid ""
+"After saving your custom portfolio slug, flush the permalinks from "
+"\"Wordpress Settings > Permalinks\" for the changes to take effect."
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:296
+msgid "Ajax add to cart ( single product )"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:117
+#: theme/metaboxes/liquid-title-wrapper.php:158
+msgid "Alignment"
+msgstr ""
+
+#: liquid/admin/views/liquid-demos.php:140
+msgid "All Content"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:34
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:204
+#: theme/metaboxes/liquid-title-wrapper.php:282
+msgid "Anchor ID"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:205
+msgid ""
+"Anchor ID of the section where the page will be scrolled on click to the "
+"scroll button"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr ""
+
+#: theme/theme-options/liquid-apikeys.php:7
+msgid "API Keys"
+msgstr ""
+
+#: woocommerce/cart/cart.php:166
+msgid "Apply Coupon"
+msgstr ""
+
+#: theme/liquid-demo-config.php:97
+msgid "Arc Studio"
+msgstr ""
+
+#: theme/liquid-demo-config.php:65
+msgid "Architect"
+msgstr ""
+
+#: theme/liquid-demo-config.php:105
+msgid "Architecture Studio"
+msgstr ""
+
+#: templates/header/header-title-bar.php:130
+msgid "Archive"
+msgstr ""
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:162
+msgid "Archives"
+msgstr ""
+
+#. Name of the theme
+msgid "ArcHub"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:24
+msgid "ArcHub Core"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:52
+msgid "ArcHub Elementor Addons"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:34
+msgid "ArcHub Portfolio"
+msgstr ""
+
+#: templates/footer/default.php:14
+msgid "ArcHub Theme. All rights reserved."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:101
+#, php-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:73
+#, php-format
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: theme/liquid-demo-config.php:41
+msgid "Asymmetric One"
+msgstr ""
+
+#: theme/liquid-demo-config.php:145
+msgid "Asymmetric Portfolio"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:9
+msgid "Audio"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:19
+msgid "Audio file URL in format: mp3, ogg, wav."
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:18
+msgid "Audio URL"
+msgstr ""
+
+#: bbpress/loop-replies.php:18 bbpress/loop-replies.php:60
+#: bbpress/loop-search.php:18 bbpress/loop-search.php:40
+#: templates/content/content.php:69 templates/blog/content-excerpt.php:24
+#: templates/blog/tmpl-style11.php:31 templates/blog/single/part-meta.php:48
+#: templates/blog/single/part-share.php:37
+msgid "Author"
+msgstr ""
+
+#: bbpress/form-anonymous.php:17
+msgid "Author Information"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:666
+msgid "Author Meta"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:677
+msgid "Author Role"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:215
+#: theme/theme-options/liquid-optimization.php:251
+msgid "Auto - Default"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:185
+msgid "Auto - width determined by thumbnail width"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:94
+msgid "Automattic"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:148
+msgid "Autoplay"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:145
+msgid "Autoplay or Play on Hover"
+msgstr ""
+
+#: woocommerce/single-product/stock.php:26
+msgid "Availability: "
+msgstr ""
+
+#: woocommerce/cart/cart.php:104
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:50
+msgid "Awaiting product image"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:569
+msgid "Awesome Font"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:79
+msgid ""
+"Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:80
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:505
+msgid "Back To Top"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:499
+msgid "Back to Top"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:516
+msgid "Back To Top Scroll Indicator"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:84
+#: theme/theme-options/liquid-page-maintenance.php:129
+#: theme/theme-options/liquid-page-maintenance.php:141
+#: theme/theme-options/liquid-page-maintenance.php:153
+msgid "Background"
+msgstr ""
+
+#: liquid/vendors/woocommerce/metaboxes.php:55
+#: liquid/vendors/woocommerce/metaboxes.php:86
+msgid "Background Color"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:173
+#: theme/theme-options/liquid-blog.php:331
+#: theme/theme-options/liquid-blog.php:486
+#: theme/theme-options/liquid-header-title-wrapper.php:136
+#: theme/metaboxes/liquid-title-wrapper.php:186
+msgid "Background Gradient"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:162
+#: theme/theme-options/liquid-blog.php:320
+#: theme/theme-options/liquid-blog.php:475
+#: theme/theme-options/liquid-header-title-wrapper.php:129
+#: theme/metaboxes/liquid-title-wrapper.php:174
+msgid "Background Image"
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:116
+msgid "Background Type"
+msgstr ""
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:69
+msgid "Badge"
+msgstr ""
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:76
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:80
+msgid "Badge Color"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: theme/metaboxes/liquid-sliders.php:64
+msgid "Below"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:208
+msgid "Big Square - (600 x 600)"
+msgstr ""
+
+#: bbpress/form-user-edit.php:82
+msgid "Biographical Info"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:216
+#: theme/theme-options/liquid-optimization.php:252
+msgid "Block"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:7
+#: templates/header/header-title-bar.php:87
+msgid "Blog"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:179
+msgid "Blog Archive"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:186
+msgid "Blog Archive Sidebar"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:737
+msgid "Blog Archive URL"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:457
+msgid "Blog Author Page"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:519
+msgid "Blog Author Page Subtitle"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:511
+msgid "Blog Author Page Title"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:464
+msgid "Blog Author Page Title Bar"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:144
+msgid "Blog Category Page"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:207
+msgid "Blog Category Page Subtitle"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:151
+#: theme/theme-options/liquid-blog.php:198
+msgid "Blog Category Page Title"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:130
+msgid "Blog Date Format"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:38
+msgid "Blog Page Subtitle"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:31
+msgid "Blog Page Title"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:19
+msgid "Blog Page Title Bar"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:141
+msgid "Blog Posts"
+msgstr ""
+
+#: bbpress/form-user-roles.php:13
+msgid "Blog Role"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:611
+msgid "Blog Single Post"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:302
+msgid "Blog Tag Page"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:364
+msgid "Blog Tag Page Subtitle"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:356
+msgid "Blog Tag Page Title"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:309
+msgid "Blog Tag Page Title Bar"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:78
+msgid "Bottom"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:119
+msgid "Bottom gap"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:107
+msgid "Breadcrumb"
+msgstr ""
+
+#: liquid/vendors/woocommerce/functions.php:255
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:173
+msgid "Breadcrumbs"
+msgstr ""
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:159
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:158
+msgid "Browse:"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:70
+#: theme/theme-options/liquid-page-404.php:34
+msgid "Button"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:128
+msgid "Button Background Color"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:138
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:189
+msgid "Button Border Radius"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:107
+msgid "Button Color"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:118
+msgid "Button Hover Color"
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:89
+msgid "Button text"
+msgstr ""
+
+#: theme/theme-options/liquid-page-404.php:46
+msgid "Button Title"
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:74
+msgid "Buttons"
+msgstr ""
+
+#: theme/theme-options/liquid-advanced.php:59
+msgid ""
+"By default all the CSS files are combined. Disabling the CSS compiler will "
+"load non-combined CSS files. This will have an impact on the performance of "
+"your site."
+msgstr ""
+
+#: theme/theme-options/liquid-advanced.php:74
+msgid "Cache Server IP"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:48
+msgid "Cancel"
+msgstr ""
+
+#: liquid/admin/updater/liquid-register-admin.php:233
+msgid "Can’t find your purchase code?"
+msgstr ""
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:132
+msgid "Capitalize"
+msgstr ""
+
+#: woocommerce/cart/header-mini-cart.php:30
+msgid "Cart"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart Total"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:94
+#: theme/theme-options/liquid-blog.php:264
+#: theme/theme-options/liquid-blog.php:419
+#: theme/theme-options/liquid-blog.php:575
+msgid "Categories"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:120
+#: theme/theme-options/liquid-portfolio.php:58
+#: theme/theme-options/liquid-header-mobile-nav.php:38
+#: theme/theme-options/liquid-header-mobile-nav.php:58
+#: theme/metaboxes/liquid-title-wrapper.php:161
+msgid "Center"
+msgstr ""
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:271
+msgid "Change menu item image/svg icon"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:19
+msgid "Change system cursor?"
+msgstr ""
+
+#: theme/theme-options/liquid-preheader.php:8
+msgid "Change the preheader section configuration."
+msgstr ""
+
+#: liquid/admin/liquid-admin-changelog.php:20
+msgid "Changelog"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+
+#: liquid/admin/views/liquid-features.php:7
+#: liquid/admin/views/liquid-features.php:17
+#: liquid/admin/views/liquid-features.php:27
+msgid "Check"
+msgstr ""
+
+#: woocommerce/cart/header-mini-cart.php:114 woocommerce/cart/mini-cart.php:89
+msgid "Checkout"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:366
+msgid "Choose a 2 background color for preloader"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:355
+msgid "Choose a background color for preloader"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:258
+msgid ""
+"Choose a background for the active circle of the custom cursor. The big "
+"circle when hovering over elements like carousel or portfolio."
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:234
+msgid "Choose a color for active of the custom cursor"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:211
+msgid "Choose a color for inner circle of the custom cursor"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:223
+msgid "Choose a color for outer circle of the custom cursor"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:377
+#: theme/theme-options/liquid-extras.php:389
+msgid "Choose a color for preloader elements"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:194
+msgid "Choose a color for scroll button"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:270
+msgid "Choose a color for the active arrow of the custom cursor."
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:246
+msgid ""
+"Choose a color for the active circle of the custom cursor. The big circle "
+"when hovering over elements like carousel or portfolio."
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:409
+msgid "Choose a color for the background when text selected or highlighted."
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:416
+msgid "Choose a color for the text color when text selected or highlighted."
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:203
+msgid "Choose a dimension for your portfolio thumb"
+msgstr ""
+
+#: theme/theme-options/liquid-page-search.php:15
+msgid "Choose a header for search result pages."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:387
+msgid "Choose a post style for your blog category pages."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:61
+msgid "Choose a post style for your blog page."
+msgstr ""
+
+#: liquid/admin/views/liquid-demos.php:27
+#: liquid/admin/views/liquid-plugins.php:30
+msgid "Choose a pre-built website for starting a quick design process."
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:214
+msgid "Choose a sidebar that will display on the search results page."
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:262
+msgid "Choose a style for related works on single portfolio posts."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:181
+msgid "Choose Action"
+msgstr ""
+
+#: liquid/admin/liquid-admin-init.php:96
+msgid "Choose an image/svg icon"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:135
+msgid "Choose date format for archive blog page."
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:31
+msgid "Choose pre-made cursor images, or upload a custom image."
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:550
+msgid "Choose the icon Fonts"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:542
+msgid "Choose the post style for your blog author pages."
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:57
+msgid "Choose the sidebar that will display across all pages."
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:174
+msgid "Choose the widgetized area to display in the side drawer."
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:90
+msgid "Cite"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:78
+msgid "City"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:625
+#: theme/theme-options/liquid-woocommerce.php:20
+#: theme/theme-options/liquid-woocommerce.php:68
+#: theme/theme-options/liquid-header-mobile-nav.php:25
+msgid "Classic"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:21
+msgid "Classic 2"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/compare.php:55
+msgid "Close window [X]"
+msgstr ""
+
+#: theme/theme-options/liquid-advanced.php:13
+msgid "Code Fields"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:196
+msgid "Color"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:189
+msgid "Color Burn"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:188
+msgid "Color Dodge"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:184
+#: theme/theme-options/liquid-blog.php:342
+#: theme/theme-options/liquid-blog.php:497
+#: theme/theme-options/liquid-header-title-wrapper.php:108
+#: theme/metaboxes/liquid-title-wrapper.php:144
+msgid "Color scheme"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:67
+#: theme/theme-options/liquid-blog.php:237
+#: theme/theme-options/liquid-blog.php:393
+#: theme/theme-options/liquid-blog.php:548
+#: theme/theme-options/liquid-portfolio.php:91
+msgid "Columns"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:111
+msgid "Columns gap"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:82
+msgid "Combine 3rd party JavaScript files coming from ArcHub into 1 file."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:81
+msgid "Combine 3rd party JS"
+msgstr ""
+
+#: comments.php:42
+msgid "Comment"
+msgstr ""
+
+#. Comment date/time "title" attribute.
+#: liquid/structure/comments.php:71
+msgctxt "comment time format"
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid "Comment*"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: templates/comment/nav.php:5
+msgid "Comments Navigation"
+msgstr ""
+
+#: woocommerce/compare.php:22
+msgid "Compare products"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:82
+msgid "Contact Form 7"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:87
+msgid ""
+"Contact Form 7 can manage multiple contact forms, plus you can customize the "
+"form and the mail contents flexibly with simple markup."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:362
+msgid "Contact Form 7 CSS"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:363
+msgid "Contact Form 7 default styles."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:350
+msgid "Contact Form 7 JS"
+msgstr ""
+
+#: bbpress/form-user-edit.php:49 bbpress/form-user-edit.php:52
+msgid "Contact Info"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:43
+#: theme/theme-options/liquid-page-404.php:27
+msgid "Content"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:96
+msgid "Content Color"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:54
+msgid "Content horizontal alignment"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:73
+msgid "Content vertical alignment"
+msgstr ""
+
+#: templates/blog/tmpl-style08.php:49
+msgid "Continue Reading"
+msgstr ""
+
+#: theme/liquid-template-tags.php:987 theme/liquid-template-tags.php:1040
+#: templates/content/content.php:33 templates/content/content.php:102
+#: templates/blog/single/classic.php:12 templates/blog/single/default.php:28
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: woocommerce/cart/cart.php:180
+msgid "Continue Shopping"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:402
+msgid "Control whether you want to load Elementor \"eicons\" or not. "
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:132
+msgid "Controls the bottom padding of the titlebar"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:167
+msgid "Controls the position of sidebar for all blog posts. "
+msgstr ""
+
+#: liquid/vendors/woocommerce/options.php:61
+msgid "Controls the position of the sidebar for all product archives."
+msgstr ""
+
+#: liquid/vendors/woocommerce/options.php:35
+msgid "Controls the position of the sidebar for all product posts."
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:194
+msgid "Controls the position of the sidebar for blog archive pages."
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:101
+msgid "Controls the subtitle text that displays in the woo category"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:95
+msgid "Controls the title text that displays in the woo category"
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:119
+msgid "Controls the top padding of the titlebar"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:83
+msgid "Controls WooCommerce Ajax button text"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:66
+msgid "Controls WooCommerce Ajax pagination type"
+msgstr ""
+
+#: bbpress/form-topic-split.php:80
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:75
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:85
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:89
+msgid "Counter Number"
+msgstr ""
+
+#: woocommerce/cart/cart.php:165
+msgid "Coupon code"
+msgstr ""
+
+#: bbpress/form-user-register.php:14
+msgid "Create an Account"
+msgstr ""
+
+#: bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr ""
+
+#: bbpress/form-forum.php:37
+#, php-format
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr ""
+
+#: bbpress/form-topic.php:43
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:56
+msgid "CSS"
+msgstr ""
+
+#: theme/theme-options/liquid-custom-code.php:14
+msgid "CSS Code"
+msgstr ""
+
+#: theme/theme-options/liquid-advanced.php:58
+msgid "CSS Compiler"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:46
+msgid "Cursor Custom Image"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:30
+msgid "Cursor image"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:302
+msgid "Curtain"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:34
+#: theme/theme-options/liquid-portfolio.php:175
+#: theme/theme-options/liquid-header-mobile-nav.php:76
+#: theme/theme-options/liquid-header-mobile-nav.php:140
+msgid "Custom"
+msgstr ""
+
+#: theme/theme-options/liquid-custom-code.php:7
+msgid "Custom CSS"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:13
+msgid "Custom Cursor"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:96
+msgid "Custom cursor"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:179
+msgid "Custom Cursor Blend Mode"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:157
+msgid "Custom Cursor Outer size"
+msgstr ""
+
+#: theme/theme-options/liquid-typography.php:13
+msgid "Custom fonts"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:248
+msgid "Custom Fonts Load"
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:33
+msgid "Custom Heading"
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:34
+msgid "Custom heading will override the default page/post title"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:549
+msgid "Custom Icon Fonts"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:535
+msgid "Custom Icons"
+msgstr ""
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:270
+msgid "Custom Image/svg Icon"
+msgstr ""
+
+#: liquid/vendors/woocommerce/metaboxes.php:23
+msgid "Custom label"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:232
+msgid ""
+"Custom link to portfolio page on navigation to link to the default portfolio "
+"archive"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:738
+msgid "Custom link to post on navigation to link to the default blog archive"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:26
+msgid "Custom Page Title"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:27
+msgid "Custom page title will override the default page and post titles"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:56
+msgid "Custom Typography"
+msgstr ""
+
+#: liquid/structure/posts.php:333
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:550
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:874
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: theme/liquid-demo-config.php:81 theme/theme-options/liquid-blog.php:187
+#: theme/theme-options/liquid-blog.php:345
+#: theme/theme-options/liquid-blog.php:500
+#: theme/theme-options/liquid-blog.php:624
+#: theme/theme-options/liquid-header-title-wrapper.php:111
+#: theme/theme-options/liquid-header-mobile-nav.php:75
+#: theme/theme-options/liquid-header-mobile-nav.php:139
+#: theme/metaboxes/liquid-title-wrapper.php:147
+msgid "Dark"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:186
+msgid "Darken"
+msgstr ""
+
+#: theme/theme-options/liquid-advanced.php:66
+msgid "Database Cache for Dynamic CSS"
+msgstr ""
+
+#: theme/liquid-template-tags.php:781
+#: theme/theme-options/liquid-portfolio.php:291
+msgid "Date"
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:62
+msgid "Date (mm/dd/yyyy)"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:314
+msgid "Date of Work"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:78
+msgid "Date:"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:619
+#: theme/theme-options/liquid-blog.php:692
+#: theme/theme-options/liquid-blog.php:702
+#: theme/theme-options/liquid-blog.php:718
+#: theme/theme-options/liquid-woocommerce.php:19
+#: theme/theme-options/liquid-woocommerce.php:249
+#: theme/theme-options/liquid-sidebars.php:28
+#: theme/theme-options/liquid-optimization.php:120
+#: theme/theme-options/liquid-portfolio.php:56
+#: theme/theme-options/liquid-portfolio.php:75
+#: theme/theme-options/liquid-portfolio.php:174
+#: theme/theme-options/liquid-portfolio.php:184
+#: theme/theme-options/liquid-header-mobile-nav.php:37
+#: theme/metaboxes/liquid-woocommerce.php:14
+#: theme/metaboxes/liquid-woocommerce.php:26
+#: theme/metaboxes/liquid-woocommerce.php:47
+#: theme/metaboxes/liquid-title-wrapper.php:25
+#: theme/metaboxes/liquid-title-wrapper.php:47
+#: theme/metaboxes/liquid-title-wrapper.php:89
+#: theme/metaboxes/liquid-title-wrapper.php:200
+#: theme/metaboxes/liquid-title-wrapper.php:216
+#: theme/metaboxes/liquid-title-wrapper.php:242
+#: theme/metaboxes/liquid-title-wrapper.php:257
+#: theme/metaboxes/liquid-sliders.php:63
+msgid "Default"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:206
+msgid "Default - (370 x 300)"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:193
+msgid "Default Blog Archive Sidebar Position"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:123
+#: theme/theme-options/liquid-blog.php:292
+#: theme/theme-options/liquid-blog.php:447
+#: theme/theme-options/liquid-blog.php:602
+msgid "Default Blog Excerpt Length"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:159
+msgid "Default Blog Posts Sidebar"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:166
+msgid "Default Blog Sidebar Position"
+msgstr ""
+
+#: liquid/vendors/woocommerce/functions.php:734
+msgid "Default Order"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:148
+msgid "Default Sidebar For Blog Posts"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:45
+#: theme/theme-options/liquid-sidebars.php:56
+msgid "Default Sidebar of Pages"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:83
+#: theme/theme-options/liquid-sidebars.php:94
+msgid "Default Sidebar of Portfolio Posts"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:63
+msgid "Default Sidebar Position of Pages"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:128
+msgid "Default Sidebar Position of Portfolio Archive"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:101
+msgid "Default Sidebar Position of Portfolio Posts"
+msgstr ""
+
+#: theme/theme-options/liquid-page-search.php:37
+msgid "Define a default subtitle for the search result pages."
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:328
+msgid "Define number of cross-sells display."
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:231
+msgid ""
+"Define number of products per row to display on your predefined WooCommerce "
+"page and category pages"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:319
+msgid "Define number of related products."
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:337
+msgid "Define number of up-sells display."
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:169
+msgid ""
+"Define the border width of outer circle when hovering over links, for "
+"instance, 3px"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:146
+msgid "Define the size of the inner custom cursor, For instance, 120px"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:158
+msgid "Define the size of the outer custom cursor, For instance, 120px"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:182
+msgid "Defines the width of the featured image on the portfolio listing page"
+msgstr ""
+
+#: theme/metaboxes/liquid-woocommerce.php:24
+msgid "Defines the width of the product image on the product list"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:88 bbpress/form-topic-tag.php:101
+msgid "Delete"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:183
+msgid "Dequeue Script"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Description"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:38
+msgid "Destination"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:192
+msgid "Difference"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:148
+msgid "Disable Carousel on Mobile"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:161
+msgid ""
+"Disable Custom Aimations for better performance and page scores for mobile."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:149
+msgid ""
+"Disable JavaScript carousel functionality on mobile. But still carousels "
+"will be draggable."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:160
+msgid "Disable Liquid Animations on Mobile"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:64
+msgid "Disable Styles"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:390
+msgid ""
+"Disable this if you don't use Elementor  animations. This won't affect "
+"Liquid Custom Animations."
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:43
+msgid "Disable this wizard"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:351
+msgid "Disabling this can prevent AJAX form validation and AJAX form submits."
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:453
+msgid "Display a scroll indicator bar at top."
+msgstr ""
+
+#: bbpress/form-user-edit.php:39
+msgid "Display Name"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:152
+msgid "Display the blog category page title."
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:156
+msgid "Display the header"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:20
+msgid ""
+"Display the page title bar for the assigned blog page in settings > reading "
+"or the blog archive pages. Note: This option will not control the blog "
+"element."
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:20
+msgid "Display the portfolio archive page title."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:750
+msgid "Display the related posts on single posts."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:656
+msgid "Display the social sharing box on single post pages."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:465
+msgid "Display the title bar on blog author pages."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:310
+msgid "Display the title on blog tag pages."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:645
+msgid "Display title bar on single posts"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:307
+msgid "Dissolve"
+msgstr ""
+
+#: liquid/admin/views/liquid-tabs.php:27
+msgid "Documentations"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:306
+msgid ""
+"Don't Lazy Load the first X image. When you set 1, the lazy load will apply "
+"all images"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:230
+#: theme/theme-options/liquid-optimization.php:340
+#: theme/theme-options/liquid-optimization.php:354
+#: theme/theme-options/liquid-optimization.php:366
+#: theme/theme-options/liquid-optimization.php:379
+#: theme/theme-options/liquid-optimization.php:393
+#: theme/theme-options/liquid-optimization.php:405
+#: theme/theme-options/liquid-optimization.php:417
+#: theme/theme-options/liquid-optimization.php:429
+msgid "Don't load"
+msgstr ""
+
+#: theme/liquid-hooks.php:1329 theme/theme-options/liquid-extras.php:119
+msgid "Drag"
+msgstr ""
+
+#: theme/theme-options/liquid-advanced.php:51
+msgid "Dynamic CSS"
+msgstr ""
+
+#: bbpress/user-details.php:65 templates/content/liquid-portfolio.php:32
+msgid "Edit"
+msgstr ""
+
+#: bbpress/user-details.php:65
+#, php-format
+msgid "Edit %s's Profile"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:44
+msgid "Elementor"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:389
+msgid "Elementor animations CSS file"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:413
+msgid "Elementor dialog.js library"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:425
+msgid "Elementor frontend.js"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:401
+msgid "Elementor icons CSS file"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:48
+msgid "Elementor.com"
+msgstr ""
+
+#: comments.php:29 bbpress/form-user-edit.php:103
+#: bbpress/form-user-register.php:28
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Email*"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:84
+msgid "Email:"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:121
+msgid "Embadded video"
+msgstr ""
+
+#: bbpress/content-statistics.php:44
+msgid "Empty Topic Tags"
+msgstr ""
+
+#: liquid/admin/views/liquid-features.php:10
+msgid "Enable Auto Updates"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:146
+msgid "Enable autoplay or play on hover"
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:239
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: theme/theme-options/liquid-footer.php:13
+msgid "Enable footer"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:19
+msgid "Enable GDPR"
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:63
+msgid "Enable Header Button"
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:14
+msgid "Enable Header Social"
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:111
+msgid "Enable Header Text"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:37
+msgid "Enable lightbox for gallery images"
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:36
+msgid "Enable Maintenance Mode"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:26
+msgid "Enable Optimize Files"
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:213
+msgid "Enable Overlay"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:170
+msgid "Enable Overlay on mobile device?"
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:197
+msgid "Enable Parallax?"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:127
+msgid "Enable parallax?"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:19
+msgid "Enable Portfolio Archive Page Title"
+msgstr ""
+
+#: theme/theme-options/liquid-preheader.php:15
+msgid "Enable preheader"
+msgstr ""
+
+#: theme/theme-options/liquid-promotions.php:21
+msgid "Enable Promo boxes"
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:254
+msgid "Enable Scroll Button"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:180
+msgid "Enable Sticky Header on mobile devices?"
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:49
+msgid "Enable Till"
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:44
+#: theme/metaboxes/liquid-title-wrapper.php:86
+msgid "Enable Title bar Typography"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:130
+msgid "Enable to show images from the gallery"
+msgstr ""
+
+#: theme/theme-options/liquid-promotions.php:22
+msgid "Enable to show promo boxes"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:44
+msgid "Enable WooCommerce Ajax filter"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:55
+msgid "Enable WooCommerce Ajax pagination"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:184
+msgid "Enqueue Script"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:320
+msgid "Enter the image url for each line you want to disable lazy load"
+msgstr ""
+
+#: theme/theme-options/liquid-custom-code.php:15
+msgid ""
+"Enter your CSS code in the field below. Do not include any tags or HTML in "
+"the field. Custom CSS entered here will override the theme CSS. In some "
+"cases, the !important tag may be needed. Don't URL encode image or svg paths."
+" Contents of this field will be auto encoded."
+msgstr ""
+
+#: liquid/admin/updater/liquid-register-admin.php:218
+msgid "Enter your purchase code"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:68
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:319
+msgid "Exclude custom images"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:193
+msgid "Exclusion"
+msgstr ""
+
+#: liquid/admin/views/liquid-features.php:20
+msgid "Exclusive and Premium Plugins"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr ""
+
+#: theme/liquid-hooks.php:1325 theme/theme-options/liquid-extras.php:108
+msgid "Explore"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:326
+msgid "External URL"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:215
+#: theme/metaboxes/liquid-title-wrapper.php:293
+msgid "Extra classes"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:7
+#: liquid/libs/merlin/merlin-config.php:96
+msgid "Extras"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:586
+msgid "fa"
+msgstr ""
+
+#: templates/blog/single/part-share.php:52
+msgid "Facebook"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:303
+msgid "Fade"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:218
+#: theme/theme-options/liquid-optimization.php:254
+msgid "Fallback"
+msgstr ""
+
+#: bbpress/user-favorites.php:15
+msgid "Favorite Forum Topics"
+msgstr ""
+
+#: bbpress/user-details.php:48
+msgid "Favorites"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:163
+msgid "Filter Products"
+msgstr ""
+
+#: bbpress/form-user-edit.php:24
+msgid "First Name"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:688
+msgid "Floating Box"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:714
+msgid "Floating Box Author"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:700
+msgid "Floating Box Social Style"
+msgstr ""
+
+#: theme/theme-options/liquid-apikeys.php:26
+msgid ""
+"Follow the link <a target=\"_blank\" href=\"https://instagram."
+"com/oauth/authorize/?app_id=1801706479953402&scope=user_profile,"
+"user_media&response_type=code&redirect_uri=https://api.liquid-themes."
+"com/instagram/instagram-auth.php\">to generate the access token and user ID."
+"</a>"
+msgstr ""
+
+#: theme/theme-options/liquid-apikeys.php:20
+msgid ""
+"Follow the steps <a href=\"https://mailchimp.com/help/about-api-keys/\">"
+"MailChimp</a> to get the API key. This key applies to the newsletter element."
+msgstr ""
+
+#: theme/theme-options/liquid-apikeys.php:14
+msgid ""
+"Follow the steps in <a target=\"_blank\" href=\"https://developers.google."
+"com/maps/documentation/javascript/get-api-key#key\">the Google docs</a> to "
+"get the API key. This key applies to the google map element."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:226
+msgid "Font Awesome"
+msgstr ""
+
+#: theme/theme-options/liquid-typography.php:29
+msgid "Font title"
+msgstr ""
+
+#: theme/theme-options/liquid-typography.php:49
+msgid "Font Weight"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:249
+msgid ""
+"Font-display property defines how font files are loaded and displayed by the "
+"browser. Set the way Font Icons are being loaded by selecting the font-"
+"display property (Default: Auto)."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:213
+msgid ""
+"Font-display property defines how font files are loaded and displayed by the "
+"browser. Set the way Google Fonts are being loaded by selecting the font-"
+"display property (Default: Auto)."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:205
+msgid "Fonts & Icon"
+msgstr ""
+
+#: theme/theme-options/liquid-footer.php:7
+msgid "Footer"
+msgstr ""
+
+#: theme/theme-options/liquid-footer.php:23
+msgid "Footer template"
+msgstr ""
+
+#: theme/theme-options/liquid-advanced.php:75
+msgid ""
+"For unique cases where you are using cloud flare and a cache server, ex: "
+"varnish cache. Enter your cache server IP to clear the theme options dynamic "
+"CSS cache. Consult with your server admin for help."
+msgstr ""
+
+#: bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr ""
+
+#: bbpress/form-forum.php:67
+#, php-format
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/user-replies-created.php:15
+msgid "Forum Replies Created"
+msgstr ""
+
+#: bbpress/form-user-roles.php:20
+msgid "Forum Role"
+msgstr ""
+
+#: bbpress/user-profile.php:24
+#, php-format
+msgid "Forum Role: %s"
+msgstr ""
+
+#: bbpress/user-topics-created.php:15
+msgid "Forum Topics Started"
+msgstr ""
+
+#: bbpress/form-forum.php:91
+msgid "Forum Type:"
+msgstr ""
+
+#: bbpress/form-topic.php:114
+msgid "Forum:"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:26
+msgid "Forum: "
+msgstr ""
+
+#: bbpress/content-statistics.php:22
+msgid "Forums"
+msgstr ""
+
+#: bbpress/loop-forums.php:22 bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr ""
+
+#: liquid/vendors/woocommerce/functions.php:995
+#: liquid/vendors/woocommerce/functions.php:1012
+msgid "Fullwidth?"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:27
+msgid "Gallery"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:48
+msgid "Gallery Slider"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:201
+msgid "GDPR Alert"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:163
+msgid "GDPR Box Border Radius"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:150
+msgid "GDPR Box Padding"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:176
+msgid "GDPR Button Padding"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:9
+#: theme/theme-options/liquid-portfolio.php:12
+#: theme/metaboxes/liquid-woocommerce.php:4
+msgid "General"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:12
+msgid "General Blog"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:19
+msgid "General Settings"
+msgstr ""
+
+#: liquid/admin/views/liquid-features.php:21
+msgid "Get access to premium and exclusive plugins for free."
+msgstr ""
+
+#: liquid/admin/views/liquid-features.php:31
+msgid "Get access to top-notch support."
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:99
+msgid "Get Theme Support"
+msgstr ""
+
+#: liquid/vendors/woocommerce/options.php:60
+msgid "Global Products Archive Sidebar Position"
+msgstr ""
+
+#: liquid/vendors/woocommerce/options.php:27
+msgid "Global Products Sidebar"
+msgstr ""
+
+#: liquid/vendors/woocommerce/options.php:34
+msgid "Global Products Sidebar Position"
+msgstr ""
+
+#: 404.php:42
+msgid "Go Home!"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Good"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:212
+msgid "Google Fonts Load"
+msgstr ""
+
+#: theme/theme-options/liquid-apikeys.php:13
+msgid "Google Maps API Key"
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:119
+msgid "Gradient"
+msgstr ""
+
+#: bbpress/form-user-edit.php:156
+msgid "Grant this user super admin privileges for the Network."
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:73
+#: theme/theme-options/liquid-header-mobile-nav.php:138
+msgid "Gray"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:118
+msgid "Grid/List"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:191
+msgid "Handle Name"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:190
+msgid "Hard Light"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:155
+#: theme/theme-options/liquid-header-layout.php:13
+#: theme/theme-options/liquid-header-layout.php:24
+#: theme/theme-options/liquid-header.php:7
+msgid "Header"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:147
+msgid "Header Background"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:134
+msgid "Header Color Scheme"
+msgstr ""
+
+#: liquid/admin/liquid-admin-init.php:264
+msgid "Header Modules"
+msgstr ""
+
+#: liquid/vendors/woocommerce/functions.php:855
+msgid "Header Note"
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:122
+msgid "Header Text"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:159
+msgid "Header Text/Trigger Color"
+msgstr ""
+
+#: theme/theme-options/liquid-page-404.php:20
+msgid "Heading"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:98
+msgid "Help center"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:70
+msgid "Hi. Welcome back"
+msgstr ""
+
+#: bbpress/content-statistics.php:64
+msgid "Hidden Replies"
+msgstr ""
+
+#: bbpress/content-statistics.php:53
+msgid "Hidden Topics"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:129
+msgid "Hide Outer circle cursor"
+msgstr ""
+
+#: liquid/vendors/woocommerce/options.php:71
+msgid "Hide sidebar on mobile devices?"
+msgstr ""
+
+#: liquid/vendors/woocommerce/functions.php:739
+msgid "Highest Price"
+msgstr ""
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:114
+msgid "Highlight"
+msgstr ""
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:160
+msgid "Home"
+msgstr ""
+
+#: liquid/admin/views/liquid-demos.php:180
+msgid "Home Page"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:53
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:74
+msgid "Hour"
+msgstr ""
+
+#: liquid/structure/posts.php:330
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:537
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:555
+msgid "How many columns to show for your blog author page."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:244
+msgid "How many columns to show for your blog category page."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:74
+msgid "How many columns to show for your blog page."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:400
+msgid "How many columns to show for your blog tag page."
+msgstr ""
+
+#. URI of the theme
+msgid "https://hub.liquid-themes.com/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/liquidthemes"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:59
+msgid "Hub Theme exclusively Elementor addons."
+msgstr ""
+
+#: liquid/vendors/woocommerce/functions.php:736
+msgid "hubrage rating"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:194
+msgid "Hue"
+msgstr ""
+
+#: liquid/admin/liquid-admin-init.php:121
+msgid "I understand"
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:46
+#: theme/theme-options/liquid-header-modules.php:95
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:97
+msgid "Icon"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:580
+msgid ""
+"Icon classnames should be separated by comma,for ex: icon-classname, icon-2-"
+"classname"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:574
+msgid "Icon Css file"
+msgstr ""
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:115
+msgid "Icon Position"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:579
+msgid "Icons classnames"
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:37
+#: theme/theme-options/liquid-page-maintenance.php:50
+msgid "If on, the frontend shows maintenance mode page only."
+msgstr ""
+
+#: theme/theme-options/liquid-preheader.php:16
+#: theme/theme-options/liquid-footer.php:14
+msgid "If on, this layout part will be displayed."
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:64
+msgid "If on, will display buttons in header."
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:15
+msgid "If on, will display social links in header."
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:112
+msgid "If on, will display text in header."
+msgstr ""
+
+#: bbpress/form-reply-move.php:33
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:414
+msgid "If you don't use Elementor popups, disable this JavaScript file. "
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:32
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing section."
+msgstr ""
+
+#: bbpress/form-topic-split.php:33
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+
+#: bbpress/form-user-edit.php:127
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:120
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:141
+msgid "Image"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:33
+msgid "Image 1"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:68
+msgid "Image Horizontal Offset"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:82
+msgid "Image Vertical Offset"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:52
+msgid "Import"
+msgstr ""
+
+#: theme/theme-options/liquid-export.php:15
+msgid "Import / Export"
+msgstr ""
+
+#: liquid/admin/views/liquid-demos.php:26
+msgid "Import a Demo"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:88
+msgid "Import Content"
+msgstr ""
+
+#: liquid/admin/views/liquid-demos.php:63
+#: liquid/admin/views/liquid-demos.php:189
+msgid "Import Demo"
+msgstr ""
+
+#: liquid/admin/liquid-admin-import.php:20
+msgid "Import Demos"
+msgstr ""
+
+#: theme/theme-options/liquid-export.php:7
+msgid "Import/Export"
+msgstr ""
+
+#: theme/theme-options/liquid-export.php:8
+msgid "Import/Export options"
+msgstr ""
+
+#: liquid/admin/views/liquid-demos.php:30
+#: liquid/admin/views/liquid-demos.php:122
+#: liquid/admin/views/liquid-plugins.php:33
+msgid "Important:"
+msgstr ""
+
+#: liquid/admin/views/liquid-demos.php:86
+msgid "Importing..."
+msgstr ""
+
+#: bbpress/loop-search-topic.php:37
+msgid "in forum "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:33
+msgid "in group forum "
+msgstr ""
+
+#: theme/theme-options/liquid-promotions.php:50
+msgid "In post Promo box content"
+msgstr ""
+
+#: bbpress/loop-search-reply.php:24
+msgid "In reply to: "
+msgstr ""
+
+#: bbpress/loop-single-reply.php:21
+msgid "in reply to: "
+msgstr ""
+
+#: bbpress/loop-single-topic.php:68
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:145
+msgid "Inline List"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:210
+msgid "Inner Circle Color"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:145
+msgid "Inner circle size"
+msgstr ""
+
+#: liquid/vendors/woocommerce/metaboxes.php:25
+msgid "Input a custom label for the product"
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:283
+msgid "Input anchor ID of the section for scroll button"
+msgstr ""
+
+#: theme/theme-options/liquid-apikeys.php:25
+msgid "Instagram Access Token"
+msgstr ""
+
+#: sbi/item.php:34 sbi/item.php:45
+#, php-format
+msgid "Instagram post %s"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:49
+#: liquid/libs/merlin/merlin-config.php:50
+#: liquid/libs/merlin/merlin-config.php:51
+msgid "Install"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:74
+msgid "Install Child Theme"
+msgstr ""
+
+#: liquid/admin/liquid-admin-plugins.php:19
+msgid "Install Liquid Plugins"
+msgstr ""
+
+#: liquid/admin/liquid-admin-plugins.php:20
+#: liquid/admin/views/liquid-plugins.php:29
+#: liquid/libs/merlin/merlin-config.php:82
+msgid "Install Plugins"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:31
+msgid ""
+"Intelligent and Powerful Elements Plugin, exclusively for Hub WordPress "
+"Theme."
+msgstr ""
+
+#: theme/liquid-demo-config.php:33
+msgid "Interior"
+msgstr ""
+
+#: theme/liquid-demo-config.php:129
+msgid "Interior Design 2"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:49
+msgid ""
+"Introducing a WordPress website builder, with no limits of design. A website "
+"builder that delivers high-end page designs and advanced capabilities, never "
+"before seen on WordPress."
+msgstr ""
+
+#: templates/content/error.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:198
+msgid "JS"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:337
+msgid "Just disable this. Who in this world uses Wordpress emojis? :-) Ugh"
+msgstr ""
+
+#: bbpress/form-reply.php:114 bbpress/form-topic.php:184
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: liquid/admin/liquid-admin-init.php:120
+msgid "Keep Importing Without Resetting"
+msgstr ""
+
+#: bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:39
+#: theme/theme-options/liquid-header-modules.php:88
+msgid "Label"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:162
+msgid "Label For Side Drawer"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:331
+msgid "Label of Button"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:302
+msgid "Label of Date"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:118
+msgid "Label Over Carousels"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:107
+msgid "Label Over Images"
+msgstr ""
+
+#: bbpress/form-user-edit.php:29
+msgid "Last Name"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:16
+#, php-format
+msgid "Last updated %s"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:54
+msgid "Later"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:332
+msgid "Launch"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:275
+#: theme/theme-options/liquid-optimization.php:281
+msgid "Lazy Load"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:282
+msgid ""
+"Lazy load enables images to load only when they are in the viewport. "
+"Therefore, lazy load boosts the performance."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:305
+msgid "Lazy Load from nth image"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:293
+msgid "Lazy Load vertical offset"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:78
+msgid "Learn about child themes"
+msgstr ""
+
+#: comments.php:37
+msgid "Leave a comment"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:119
+#: theme/theme-options/liquid-sidebars.php:66
+#: theme/theme-options/liquid-sidebars.php:104
+#: theme/theme-options/liquid-sidebars.php:131
+#: theme/theme-options/liquid-sidebars.php:169
+#: theme/theme-options/liquid-sidebars.php:196
+#: theme/theme-options/liquid-sidebars.php:223
+#: theme/theme-options/liquid-portfolio.php:57
+#: theme/theme-options/liquid-header-mobile-nav.php:48
+#: theme/theme-options/liquid-header-mobile-nav.php:59
+#: theme/metaboxes/liquid-title-wrapper.php:160
+#: liquid/vendors/woocommerce/options.php:37
+#: liquid/vendors/woocommerce/options.php:63
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:118
+msgid "Left"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:76
+msgid ""
+"Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+
+#. Theme Name
+#: liquid/libs/merlin/merlin-config.php:69
+msgid "Let's Get You Started"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:89
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme."
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:84
+msgid "Let's install some essential WordPress plugins to get you started."
+msgstr ""
+
+#: liquid/admin/liquid-admin-license.php:19
+msgid "License"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:63
+msgid "License key"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:186
+#: theme/theme-options/liquid-blog.php:344
+#: theme/theme-options/liquid-blog.php:499
+#: theme/theme-options/liquid-header-title-wrapper.php:110
+#: theme/theme-options/liquid-header-mobile-nav.php:74
+#: theme/theme-options/liquid-header-mobile-nav.php:137
+#: theme/metaboxes/liquid-title-wrapper.php:146
+msgid "Light"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:36
+msgid "Lightbox?"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:187
+msgid "Lighten"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:65
+msgid "Link"
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:40
+msgid "Link text"
+msgstr ""
+
+#: templates/blog/single/part-share.php:70
+msgid "Linkedin"
+msgstr ""
+
+#: liquid/admin/liquid-admin-dashboard.php:20
+msgid "Liquid"
+msgstr ""
+
+#: liquid/admin/liquid-admin-dashboard.php:19
+msgid "Liquid Activation"
+msgstr ""
+
+#: liquid/admin/liquid-admin-changelog.php:19
+msgid "Liquid Changelog"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:62
+msgid "Liquid GDPR Box"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:69
+msgid "Liquid GDPR box"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:552
+msgid "Liquid Icons"
+msgstr ""
+
+#: liquid/admin/liquid-admin-import.php:19
+msgid "Liquid Import Demos"
+msgstr ""
+
+#: liquid/admin/liquid-admin-license.php:18
+msgid "Liquid License"
+msgstr ""
+
+#: liquid/liquid-helpers.php:161
+msgctxt "Liquid plugin installation page."
+msgid "Activate"
+msgstr ""
+
+#: liquid/liquid-helpers.php:178
+msgctxt "Liquid plugin installation page."
+msgid "Deactivate"
+msgstr ""
+
+#: liquid/liquid-helpers.php:143
+msgctxt "Liquid plugin installation page."
+msgid "Install"
+msgstr ""
+
+#: theme/metaboxes/liquid-sliders.php:19
+msgid "liquid Slider"
+msgstr ""
+
+#. Author of the theme
+#: theme/liquid-register-plugins.php:30 theme/liquid-register-plugins.php:40
+#: theme/liquid-register-plugins.php:58
+msgid "Liquid Themes"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:119
+#: theme/theme-options/liquid-optimization.php:229
+#: theme/theme-options/liquid-optimization.php:339
+#: theme/theme-options/liquid-optimization.php:353
+#: theme/theme-options/liquid-optimization.php:365
+#: theme/theme-options/liquid-optimization.php:378
+#: theme/theme-options/liquid-optimization.php:392
+#: theme/theme-options/liquid-optimization.php:404
+#: theme/theme-options/liquid-optimization.php:416
+#: theme/theme-options/liquid-optimization.php:428
+msgid "Load"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:44
+msgid ""
+"Load a lite version of Bootstrap containing only necesessary CSS for ArcHub."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:137
+msgid ""
+"Load all jQuery libraries in the footer. This can reduce the boot time of "
+"your site but may prevent some 3rd party plugins from working."
+msgstr ""
+
+#: liquid/liquid-base.php:57
+msgid "Load Extension"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:227
+msgid "Load Font Awesome Icon Library"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:136
+msgid "Load jQuery in Footer"
+msgstr ""
+
+#: theme/liquid-portfolio.php:130
+msgid "Load more"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:84
+msgid "Load more products"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-button.php:21
+msgid "loading"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:341
+msgid "Loading bar width"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:423
+msgid "Local Scroll"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:435
+msgid "Local scroll offset"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:429
+msgid "Local scroll speed"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:140
+msgid ""
+"Local video URL that will be shown on Portfolio Listing. You can add the "
+"Youtube/Vimeo video that you want to show in the lightbox, from Portfolio "
+"Meta > External URL."
+msgstr ""
+
+#: bbpress/form-user-login.php:14 bbpress/form-user-login.php:35
+msgid "Log In"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:308
+msgid "Logo"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:34
+msgid "Logo Alignment"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:35
+msgid "Logo alignment on mobile."
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:319
+msgid "Logo image"
+msgstr ""
+
+#: theme/theme-options/liquid-header-menu.php:72
+msgid "Logo Padding"
+msgstr ""
+
+#: 404.php:39
+msgid "Looks like you are lost."
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr ""
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:127
+msgid "Lowercase"
+msgstr ""
+
+#: liquid/vendors/woocommerce/functions.php:738
+msgid "Lowest Price"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:197
+msgid "Luminosity"
+msgstr ""
+
+#: bbpress/form-anonymous.php:27
+msgid "Mail (will not be published) (required):"
+msgstr ""
+
+#: theme/theme-options/liquid-apikeys.php:19
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: theme/theme-options/liquid-header-menu.php:40
+msgid "Main Color"
+msgstr ""
+
+#: theme/liquid-setup.php:85
+msgid "Main Sidebar"
+msgstr ""
+
+#: theme/liquid-setup.php:87
+msgid "Main widget area to display in sidebar"
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:29
+msgid "Maintenance Page"
+msgstr ""
+
+#: liquid/admin/views/liquid-demos.php:12
+msgid "Make sure to activate ArcHub Core plugin prior to import a demo."
+msgstr ""
+
+#: liquid/admin/views/liquid-demos.php:30
+#: liquid/admin/views/liquid-demos.php:130
+#: liquid/admin/views/liquid-plugins.php:33
+msgid "Make sure to activate required plugins prior to import a demo."
+msgstr ""
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:126
+msgid "Make this item menu heading?"
+msgstr ""
+
+#: liquid/vendors/woocommerce/functions.php:997
+#: liquid/vendors/woocommerce/functions.php:1016
+msgid "Makes the category layout fullwidth"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:172
+msgid "Manage Custom Scripts"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:543
+msgid "Manage Icons"
+msgstr ""
+
+#: liquid/admin/updater/liquid-register-admin.php:239
+msgid "Manage Licenses in Liquid Portal"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:18
+#, php-format
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:85
+#: theme/theme-options/liquid-blog.php:255
+#: theme/theme-options/liquid-blog.php:566
+msgid "Manage the meta for posts"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:96
+#: theme/theme-options/liquid-blog.php:266
+#: theme/theme-options/liquid-blog.php:421
+msgid "Manage the meta type for posts"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:112
+msgid "Manage the single category for posts"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:365
+msgid "Manage the subtitle of blog category pages."
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:167
+msgid "Manage the subtitle of portfolio listing"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:39
+msgid ""
+"Manage the subtitle text that displays in the page title bar only if your "
+"front page displays your latest post in \"settings > reading\"."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:513
+msgid "Manage the title of blog author page title."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:200
+msgid "Manage the title of blog category pages."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:358
+msgid "Manage the title of blog tag pages."
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:32
+msgid "Manage the title of portfolio archive pages."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:98
+msgid "Manage Theme Scripts"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:101
+msgid "Manages the bottom padding of the titlebar"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:279
+msgid "Manages the number of works that display on related works section."
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:64
+msgid "Manages the position of the sidebar across all pages."
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:102
+msgid "Manages the position of the sidebar for all portfolio posts."
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:129
+msgid "Manages the position of the sidebar for portfolio archive pages."
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:221
+msgid "Manages the position of the sidebar for the search results page."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:520
+msgid "Manages the subtitle of blog author pages."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:208
+msgid "Manages the subtitle of blog category pages."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:32
+msgid ""
+"Manages the title text that displays in the page title bar only if your "
+"front page displays your latest post in \"settings > reading\"."
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:93
+msgid "Manages the top padding of the titlebar"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:76
+msgid "Manages the typography for the page subtitle"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:67
+#: theme/theme-options/liquid-header-title-wrapper.php:43
+msgid "Manages the typography for the page title"
+msgstr ""
+
+#: liquid/admin/views/liquid-demos.php:148
+msgid "Media Attachments"
+msgstr ""
+
+#: theme/theme-options/liquid-header-menu.php:8
+msgid "Menu"
+msgstr ""
+
+#: theme/theme-options/liquid-header-menu.php:59
+msgid "Menu Item Padding"
+msgstr ""
+
+#: theme/theme-options/liquid-header-menu.php:14
+msgid "Menus Typography"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:59 bbpress/form-topic-tag.php:73
+msgid "Merge"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:24
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-merge.php:76
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:71
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:81
+msgid "Merge topic tags"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:42
+msgid "Merge with this topic:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:80
+#: theme/theme-options/liquid-blog.php:250
+#: theme/theme-options/liquid-blog.php:406
+#: theme/theme-options/liquid-blog.php:561
+msgid "Meta"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:91
+#: theme/theme-options/liquid-blog.php:261
+#: theme/theme-options/liquid-blog.php:416
+#: theme/theme-options/liquid-blog.php:572
+msgid "Meta Type"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:77
+msgid "Middle"
+msgstr ""
+
+#: theme/liquid-demo-config.php:9 theme/theme-options/liquid-blog.php:622
+#: theme/theme-options/liquid-woocommerce.php:22
+#: theme/theme-options/liquid-header-mobile-nav.php:26
+msgid "Minimal"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:23
+msgid "Minimal 2"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:24
+msgid "Minimal Hover Shadow"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:25
+msgid "Minimal Hover Shadow 2"
+msgstr ""
+
+#: theme/liquid-demo-config.php:137
+msgid "Minimalist"
+msgstr ""
+
+#: liquid/structure/posts.php:327
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:165
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: liquid/structure/posts.php:324
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:513
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: liquid/structure/posts.php:327
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:525
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:87
+msgid "Minutes"
+msgstr ""
+
+#: theme/theme-options/liquid-header-menu.php:27
+msgid "Mobile Menus Typography"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:3
+msgid "Mobile Navigation"
+msgstr ""
+
+#. 1: Plugin name 2: Elementor
+#: theme/theme-options/liquid-header-mobile-nav.php:14
+msgid "Mobile Primary Menu"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:620
+#: theme/theme-options/liquid-header-mobile-nav.php:27
+msgid "Modern"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:41
+msgid ""
+"Modern and Diversified Portfolio Plugin, exclusively ArcHub WordPress Theme."
+msgstr ""
+
+#: theme/liquid-demo-config.php:177
+msgid "Modern Blocks"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:621
+msgid "Modern Full Screen"
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:7
+msgid "Modules"
+msgstr ""
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:549
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:592
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:871
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: bbpress/form-reply-move.php:37
+msgid "Move Method"
+msgstr ""
+
+#: bbpress/form-reply-move.php:24
+#, php-format
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: bbpress/form-reply-move.php:42
+#, php-format
+msgid "Moved: %s"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:183
+msgid "Multiply"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:62
+msgid "My account"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:192
+msgid "my-custom-script"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "N/A"
+msgstr ""
+
+#: comments.php:27 bbpress/form-user-edit.php:14 bbpress/form-user-edit.php:19
+msgid "Name"
+msgstr ""
+
+#: bbpress/form-anonymous.php:22
+msgid "Name (required):"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Name*"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr ""
+
+#. The %s is the menu name. This is used for the 'aria-label' attribute.
+#: liquid/structure/markup.php:81
+#, php-format
+msgctxt "nav menu aria label"
+msgid "%s"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:88
+#: theme/theme-options/liquid-header-mobile-nav.php:107
+msgid "Navigation Background"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:123
+msgid "Navigation Border Color"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:70
+msgid "Navigation Color Scheme"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:54
+msgid "Navigation Items Alignment"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:100
+#: theme/theme-options/liquid-header-mobile-nav.php:115
+msgid "Navigation Text/Trigger Color"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:45
+msgid "Navigation trigger alignment on mobile."
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:66
+msgid "Need help?"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:726
+msgid "Neighbour Posts"
+msgstr ""
+
+#: bbpress/form-user-edit.php:153
+msgid "Network Role"
+msgstr ""
+
+#: bbpress/form-user-edit.php:124
+msgid "New Password"
+msgstr ""
+
+#: bbpress/form-reply-move.php:41 bbpress/form-topic-split.php:41
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: templates/comment/nav.php:12
+msgid "Newer Comments"
+msgstr ""
+
+#: liquid/vendors/woocommerce/functions.php:737
+msgid "Newness"
+msgstr ""
+
+#: liquid/structure/markup.php:144 liquid/libs/merlin/merlin-config.php:46
+#: templates/portfolio/single/split.php:116
+#: templates/portfolio/single/parts/part-nav.php:37
+msgid "Next"
+msgstr ""
+
+#: templates/blog/single/navigation.php:42
+#: templates/blog/single/navigation.php:50
+msgid "Next Article"
+msgstr ""
+
+#: templates/portfolio/single/navigation.php:53
+#: templates/portfolio/single/navigation.php:61
+msgid "Next Work"
+msgstr ""
+
+#: bbpress/form-user-edit.php:34
+msgid "Nickname"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:83
+#: theme/theme-options/liquid-blog.php:110
+#: theme/theme-options/liquid-blog.php:253
+#: theme/theme-options/liquid-blog.php:280
+#: theme/theme-options/liquid-blog.php:409
+#: theme/theme-options/liquid-blog.php:435
+#: theme/theme-options/liquid-blog.php:564
+#: theme/theme-options/liquid-blog.php:590
+#: theme/theme-options/liquid-woocommerce.php:133
+#: theme/theme-options/liquid-woocommerce.php:189
+#: theme/theme-options/liquid-optimization.php:85
+#: theme/theme-options/liquid-optimization.php:102
+#: theme/theme-options/liquid-optimization.php:140
+#: theme/theme-options/liquid-optimization.php:152
+#: theme/theme-options/liquid-optimization.php:164
+#: theme/theme-options/liquid-optimization.php:240
+#: theme/theme-options/liquid-optimization.php:266
+#: theme/theme-options/liquid-header-layout.php:34
+#: theme/theme-options/liquid-header-mobile-nav.php:172
+#: theme/theme-options/liquid-header-mobile-nav.php:182
+#: liquid/vendors/woocommerce/options.php:75
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:128
+msgid "No"
+msgstr ""
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:99
+msgid "No Icons"
+msgstr ""
+
+#: woocommerce/compare.php:84
+msgid "No products added in the compare table."
+msgstr ""
+
+#: woocommerce/cart/header-mini-cart.php:99 woocommerce/cart/mini-cart.php:75
+msgid "No products in the cart."
+msgstr ""
+
+#: theme/metaboxes/liquid-sliders.php:18
+msgid "No Slider"
+msgstr ""
+
+#: liquid/vendors/woocommerce/functions.php:928
+#: liquid/vendors/woocommerce/functions.php:969
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:58
+msgid "None"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:182
+msgid "Normal"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Not that bad"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:560
+msgid "NOTE: All icons files should be uploaded via FTP on your server"
+msgstr ""
+
+#: templates/content/error.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: liquid/vendors/woocommerce/functions.php:874
+msgid "Notice"
+msgstr ""
+
+#: liquid/admin/views/liquid-demos.php:12
+msgid "Notice:"
+msgstr ""
+
+#: bbpress/form-reply.php:97 bbpress/form-topic.php:168
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:93 bbpress/form-topic.php:164
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-forum.php:35 bbpress/form-topic.php:41
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:327
+msgid "Number of Displayed Cross-sells"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:336
+msgid "Number of Displayed Up-sells"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:223
+msgid "Number of Products Displayed per Page"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:230
+msgid "Number of Products Per Row"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:318
+msgid "Number of Related Products"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:278
+msgid "Number of Related Works"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:89
+#: theme/theme-options/liquid-header-mobile-nav.php:101
+#: theme/theme-options/liquid-header-mobile-nav.php:108
+#: theme/theme-options/liquid-header-mobile-nav.php:116
+#: theme/theme-options/liquid-header-mobile-nav.php:124
+#: theme/theme-options/liquid-header-mobile-nav.php:148
+#: theme/theme-options/liquid-header-mobile-nav.php:160
+msgid "of the mobile version of the website"
+msgstr ""
+
+#: theme/theme-options/liquid-page-search.php:29
+#: theme/theme-options/liquid-gdpr.php:23
+#: theme/theme-options/liquid-gdpr.php:59
+#: theme/theme-options/liquid-promotions.php:25
+#: theme/theme-options/liquid-blog.php:23
+#: theme/theme-options/liquid-blog.php:155
+#: theme/theme-options/liquid-blog.php:313
+#: theme/theme-options/liquid-blog.php:468
+#: theme/theme-options/liquid-blog.php:637
+#: theme/theme-options/liquid-blog.php:648
+#: theme/theme-options/liquid-blog.php:659
+#: theme/theme-options/liquid-blog.php:670
+#: theme/theme-options/liquid-blog.php:681
+#: theme/theme-options/liquid-blog.php:693
+#: theme/theme-options/liquid-blog.php:719
+#: theme/theme-options/liquid-blog.php:730
+#: theme/theme-options/liquid-blog.php:753
+#: theme/theme-options/liquid-woocommerce.php:36
+#: theme/theme-options/liquid-woocommerce.php:47
+#: theme/theme-options/liquid-woocommerce.php:58
+#: theme/theme-options/liquid-woocommerce.php:111
+#: theme/theme-options/liquid-woocommerce.php:122
+#: theme/theme-options/liquid-woocommerce.php:144
+#: theme/theme-options/liquid-woocommerce.php:155
+#: theme/theme-options/liquid-woocommerce.php:205
+#: theme/theme-options/liquid-woocommerce.php:216
+#: theme/theme-options/liquid-woocommerce.php:263
+#: theme/theme-options/liquid-woocommerce.php:289
+#: theme/theme-options/liquid-woocommerce.php:300
+#: theme/theme-options/liquid-woocommerce.php:311
+#: theme/theme-options/liquid-header-title-wrapper.php:19
+#: theme/theme-options/liquid-header-title-wrapper.php:35
+#: theme/theme-options/liquid-header-title-wrapper.php:68
+#: theme/theme-options/liquid-header-title-wrapper.php:145
+#: theme/theme-options/liquid-header-title-wrapper.php:156
+#: theme/theme-options/liquid-header-title-wrapper.php:176
+#: theme/theme-options/liquid-header-title-wrapper.php:185
+#: theme/theme-options/liquid-sidebars.php:49
+#: theme/theme-options/liquid-sidebars.php:87
+#: theme/theme-options/liquid-sidebars.php:152
+#: theme/theme-options/liquid-extras.php:23
+#: theme/theme-options/liquid-extras.php:100
+#: theme/theme-options/liquid-extras.php:133
+#: theme/theme-options/liquid-extras.php:292
+#: theme/theme-options/liquid-extras.php:456
+#: theme/theme-options/liquid-extras.php:509
+#: theme/theme-options/liquid-extras.php:520
+#: theme/theme-options/liquid-optimization.php:31
+#: theme/theme-options/liquid-optimization.php:47
+#: theme/theme-options/liquid-optimization.php:285
+#: theme/theme-options/liquid-portfolio.php:23
+#: theme/theme-options/liquid-portfolio.php:159
+#: theme/theme-options/liquid-portfolio.php:224
+#: theme/theme-options/liquid-portfolio.php:242
+#: theme/theme-options/liquid-portfolio.php:295
+#: theme/theme-options/liquid-header-layout.php:17
+#: theme/theme-options/liquid-footer.php:17
+#: theme/theme-options/liquid-page-maintenance.php:41
+#: theme/theme-options/liquid-page-maintenance.php:54
+#: theme/theme-options/liquid-header-modules.php:18
+#: theme/theme-options/liquid-header-modules.php:67
+#: theme/theme-options/liquid-header-modules.php:115
+#: theme/theme-options/liquid-page-404.php:38
+#: theme/metaboxes/liquid-woocommerce.php:48
+#: theme/metaboxes/liquid-post-format.php:40
+#: theme/metaboxes/liquid-title-wrapper.php:26
+#: theme/metaboxes/liquid-title-wrapper.php:48
+#: theme/metaboxes/liquid-title-wrapper.php:90
+#: theme/metaboxes/liquid-title-wrapper.php:201
+#: theme/metaboxes/liquid-title-wrapper.php:217
+#: theme/metaboxes/liquid-title-wrapper.php:243
+#: theme/metaboxes/liquid-title-wrapper.php:258
+#: liquid/vendors/woocommerce/options.php:20
+msgid "Off"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:292
+msgid "Offset"
+msgstr ""
+
+#: bbpress/feedback-no-forums.php:13
+msgid "Oh bother! No forums were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-replies.php:13
+msgid "Oh bother! No replies were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-search.php:13
+msgid "Oh bother! No search results were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-topics.php:13
+msgid "Oh bother! No topics were found here!"
+msgstr ""
+
+#: templates/comment/nav.php:8
+msgid "Older Comments"
+msgstr ""
+
+#: theme/theme-options/liquid-page-search.php:28
+#: theme/theme-options/liquid-gdpr.php:22
+#: theme/theme-options/liquid-gdpr.php:58
+#: theme/theme-options/liquid-promotions.php:24
+#: theme/theme-options/liquid-blog.php:22
+#: theme/theme-options/liquid-blog.php:154
+#: theme/theme-options/liquid-blog.php:312
+#: theme/theme-options/liquid-blog.php:467
+#: theme/theme-options/liquid-blog.php:636
+#: theme/theme-options/liquid-blog.php:647
+#: theme/theme-options/liquid-blog.php:658
+#: theme/theme-options/liquid-blog.php:669
+#: theme/theme-options/liquid-blog.php:680
+#: theme/theme-options/liquid-blog.php:691
+#: theme/theme-options/liquid-blog.php:717
+#: theme/theme-options/liquid-blog.php:729
+#: theme/theme-options/liquid-blog.php:752
+#: theme/theme-options/liquid-woocommerce.php:35
+#: theme/theme-options/liquid-woocommerce.php:46
+#: theme/theme-options/liquid-woocommerce.php:57
+#: theme/theme-options/liquid-woocommerce.php:110
+#: theme/theme-options/liquid-woocommerce.php:121
+#: theme/theme-options/liquid-woocommerce.php:143
+#: theme/theme-options/liquid-woocommerce.php:154
+#: theme/theme-options/liquid-woocommerce.php:204
+#: theme/theme-options/liquid-woocommerce.php:215
+#: theme/theme-options/liquid-woocommerce.php:262
+#: theme/theme-options/liquid-woocommerce.php:288
+#: theme/theme-options/liquid-woocommerce.php:299
+#: theme/theme-options/liquid-woocommerce.php:310
+#: theme/theme-options/liquid-header-title-wrapper.php:18
+#: theme/theme-options/liquid-header-title-wrapper.php:34
+#: theme/theme-options/liquid-header-title-wrapper.php:67
+#: theme/theme-options/liquid-header-title-wrapper.php:144
+#: theme/theme-options/liquid-header-title-wrapper.php:155
+#: theme/theme-options/liquid-header-title-wrapper.php:175
+#: theme/theme-options/liquid-header-title-wrapper.php:184
+#: theme/theme-options/liquid-sidebars.php:48
+#: theme/theme-options/liquid-sidebars.php:86
+#: theme/theme-options/liquid-sidebars.php:151
+#: theme/theme-options/liquid-extras.php:22
+#: theme/theme-options/liquid-extras.php:99
+#: theme/theme-options/liquid-extras.php:132
+#: theme/theme-options/liquid-extras.php:291
+#: theme/theme-options/liquid-extras.php:455
+#: theme/theme-options/liquid-extras.php:508
+#: theme/theme-options/liquid-extras.php:519
+#: theme/theme-options/liquid-optimization.php:30
+#: theme/theme-options/liquid-optimization.php:46
+#: theme/theme-options/liquid-optimization.php:284
+#: theme/theme-options/liquid-portfolio.php:22
+#: theme/theme-options/liquid-portfolio.php:158
+#: theme/theme-options/liquid-portfolio.php:223
+#: theme/theme-options/liquid-portfolio.php:241
+#: theme/theme-options/liquid-portfolio.php:294
+#: theme/theme-options/liquid-header-layout.php:16
+#: theme/theme-options/liquid-footer.php:16
+#: theme/theme-options/liquid-page-maintenance.php:40
+#: theme/theme-options/liquid-page-maintenance.php:53
+#: theme/theme-options/liquid-header-modules.php:17
+#: theme/theme-options/liquid-header-modules.php:66
+#: theme/theme-options/liquid-header-modules.php:114
+#: theme/theme-options/liquid-page-404.php:37
+#: theme/metaboxes/liquid-woocommerce.php:46
+#: theme/metaboxes/liquid-post-format.php:39
+#: theme/metaboxes/liquid-title-wrapper.php:24
+#: theme/metaboxes/liquid-title-wrapper.php:46
+#: theme/metaboxes/liquid-title-wrapper.php:88
+#: theme/metaboxes/liquid-title-wrapper.php:199
+#: theme/metaboxes/liquid-title-wrapper.php:215
+#: theme/metaboxes/liquid-title-wrapper.php:241
+#: theme/metaboxes/liquid-title-wrapper.php:256
+#: liquid/vendors/woocommerce/options.php:19
+msgid "On"
+msgstr ""
+
+#: theme/theme-options/liquid-advanced.php:30
+msgid ""
+"Only accepts javascript code wrapped with &lt;script&gt; tags and HTML "
+"markup that is valid inside the &lt;/head&gt; tag."
+msgstr ""
+
+#: theme/theme-options/liquid-advanced.php:40
+msgid ""
+"Only accepts javascript code, wrapped with &lt;script&gt; tags and valid "
+"HTML markup inside the &lt;/body&gt; tag."
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:38
+#: theme/theme-options/liquid-page-maintenance.php:51
+msgid ""
+"Only administrator will be able to visit site. If you want to check if "
+"maintenance mode is enabled you have to logout."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:116
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:43
+msgid "Optimize Bootstrap"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:219
+#: theme/theme-options/liquid-optimization.php:255
+msgid "Optional"
+msgstr ""
+
+#: bbpress/form-reply.php:118 bbpress/form-topic.php:188
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:73
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+#: woocommerce/checkout/thankyou.php:43 woocommerce/cart/cart.php:43
+msgid "Order Received"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:168
+msgid "Outer Circle Active Border Width"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:222
+msgid "Outer Circle Color"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:29
+msgid "Outline"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:703
+msgid "Outline Text"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:623
+#: theme/theme-options/liquid-header-title-wrapper.php:153
+#: theme/theme-options/liquid-extras.php:185
+msgid "Overlay"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:163
+#: theme/metaboxes/liquid-title-wrapper.php:229
+msgid "Overlay Background"
+msgstr ""
+
+#: theme/theme-options/liquid-header-layout.php:32
+msgid "Overlay?"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:174
+#: theme/theme-options/liquid-blog.php:332
+#: theme/theme-options/liquid-blog.php:487
+#: theme/theme-options/liquid-header-title-wrapper.php:137
+#: theme/metaboxes/liquid-title-wrapper.php:187
+msgid "Overwrites the background image, unless has transparency."
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:315
+msgid "Overwrites the portfolio post publish date."
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:213
+msgid "Packery Portrait - (270 x 370)"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:212
+msgid "Packery Wide - (570 x 370)"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:100
+#: theme/metaboxes/liquid-title-wrapper.php:131
+msgid "Padding Bottom"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:92
+#: theme/metaboxes/liquid-title-wrapper.php:118
+msgid "Padding Top"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:38 templates/content/content.php:42
+#: templates/content/liquid-portfolio.php:25 templates/content/page.php:21
+#: templates/blog/single/classic.php:21 templates/blog/single/default.php:37
+msgid "Page"
+msgstr ""
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:164
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: theme/liquid-demo-config.php:169
+msgid "Page Blocks 2"
+msgstr ""
+
+#: theme/liquid-demo-config.php:89
+msgid "Page Blocks 3"
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:108
+msgid "Page Content"
+msgstr ""
+
+#: search.php:40 theme/category-blog.php:164 theme/liquid-blog.php:155
+#: theme/liquid-portfolio.php:107 theme/liquid-portfolio.php:126
+#: theme/author-blog.php:162 theme/tag-blog.php:169
+#: templates/portfolio-layout.php:28 templates/blog-layout.php:28
+#: templates/category-layout.php:28 templates/author-layout.php:28
+#: templates/tag-layout.php:28
+msgid "Page navigation"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:59
+msgid "Page Subtitle"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:65
+msgid "Page Subtitle Custom Typography"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:75
+msgid "Page Subtitle Typography"
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:100
+msgid "Page Title"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:644
+#: theme/theme-options/liquid-header-title-wrapper.php:8
+msgid "Page Title Bar"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:32
+msgid "Page Title Custom Typography"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:42
+msgid "Page Title Typography"
+msgstr ""
+
+#: templates/content/content.php:38 templates/content/liquid-portfolio.php:21
+#: templates/content/page.php:17 templates/blog/single/classic.php:17
+#: templates/blog/single/default.php:33
+msgid "Pages:"
+msgstr ""
+
+#: theme/liquid-demo-config.php:25
+#: theme/theme-options/liquid-header-title-wrapper.php:142
+msgid "Parallax"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:128
+msgid "Parallax for images"
+msgstr ""
+
+#: bbpress/form-forum.php:118
+msgid "Parent Forum:"
+msgstr ""
+
+#: bbpress/form-user-login.php:22
+msgid "Password"
+msgstr ""
+
+#: theme/theme-options/liquid-advanced.php:20
+msgid ""
+"Paste your tracking code here. This will be added into the header template "
+"of your theme. Place code inside &lt;script&gt; tags."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:60
+msgid "Pay"
+msgstr ""
+
+#: liquid/vendors/woocommerce/functions.php:541
+msgid "Payment"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:43
+#: woocommerce/checkout/thankyou.php:35 woocommerce/cart/cart.php:35
+msgid "Payment and Delivery Options"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:96
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Perfect"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:6
+msgid "Performance"
+msgstr ""
+
+#: templates/comment/ping.php:9
+msgid "Permalink"
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:272
+msgid "Pick a color for scroll button"
+msgstr ""
+
+#: templates/blog/single/part-share.php:64
+msgid "Pinterest"
+msgstr ""
+
+#: templates/header/header-search-slide-top.php:22
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: templates/header/header-search.php:13
+#: templates/header/header-search-visible-form.php:13
+#: templates/header/header-search-default.php:45
+msgctxt "placeholder"
+msgid "Start searching"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:149
+msgid "Play On Hover"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:430
+msgid "Please add scroll speed in milliseconds, works for one page websites"
+msgstr ""
+
+#. Theme Name
+#: liquid/libs/merlin/merlin-config.php:62
+msgid ""
+"Please add your Envato purchase code along with your email address to "
+"confirm the purchase."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:438
+msgid "Plugins"
+msgstr ""
+
+#: liquid/vendors/woocommerce/functions.php:735
+msgid "Popularity"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:7
+msgid "Portfolio"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:114
+msgid "Portfolio Archive"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:30
+msgid "Portfolio Archive Page Title"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:231
+msgid "Portfolio Archive URL"
+msgstr ""
+
+#: theme/liquid-demo-config.php:121
+msgid "Portfolio Boxes"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:141
+msgid "Portfolio Category Slug"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:76
+msgid "Portfolio Posts"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:149
+msgid "Portfolio Single"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:134
+msgid "Portfolio Slug"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:39
+#: theme/theme-options/liquid-portfolio.php:172
+msgid "Portfolio Style"
+msgstr ""
+
+#: theme/liquid-demo-config.php:73
+msgid "Portfolio Zig Zag"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:209
+msgid "Portrait - (350 x 500)"
+msgstr ""
+
+#: templates/comment/comment.php:5
+msgid "Post comment"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:44
+#: theme/theme-options/liquid-blog.php:525
+msgid "Post Style"
+msgstr ""
+
+#. Post date/time "title" attribute.
+#: liquid/structure/posts.php:147
+msgctxt "post time format"
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:84
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: templates/content/content.php:49
+#, php-format
+msgid "Posted in: %s"
+msgstr ""
+
+#: bbpress/loop-replies.php:24 bbpress/loop-replies.php:66
+#: bbpress/loop-forums.php:21 bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr ""
+
+#: theme/liquid-template-tags.php:1067
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:585
+msgid "Prefix"
+msgstr ""
+
+#: theme/theme-options/liquid-preheader.php:7
+msgid "Preheader"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:263
+msgid ""
+"Preload is a way of telling the browser to request a resource before the "
+"browser feels the needs of it. If you get a \"yours custom font\" on Google "
+"PageSpeed, enable it."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:237
+msgid ""
+"Preload is a way of telling the browser to request a resource before the "
+"browser feels the needs of it. If you get a lqd-essentials.woff2 on Google "
+"PageSpeed, enable it."
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:282
+#: theme/theme-options/liquid-extras.php:288
+msgid "Preloader"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:354
+msgid "Preloader Background Color"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:365
+msgid "Preloader Background Color 2"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:376
+msgid "Preloader Elements Color"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:388
+msgid "Preloader Elements Color 2"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:299
+msgid "Preloader Style"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:79
+msgid "Premium responsive slider"
+msgstr ""
+
+#: liquid/admin/views/liquid-features.php:30
+msgid "Premium Support"
+msgstr ""
+
+#: liquid/admin/views/liquid-demos.php:66
+msgid "Preview"
+msgstr ""
+
+#: liquid/structure/markup.php:144 templates/portfolio/single/split.php:110
+#: templates/portfolio/single/parts/part-nav.php:23
+msgid "Previous"
+msgstr ""
+
+#: templates/blog/single/navigation.php:20
+#: templates/blog/single/navigation.php:28
+msgid "Previous Article"
+msgstr ""
+
+#: templates/portfolio/single/navigation.php:36
+#: templates/portfolio/single/navigation.php:44
+msgid "Previous Work"
+msgstr ""
+
+#: woocommerce/cart/cart.php:57 woocommerce/cart/cart.php:110
+msgid "Price"
+msgstr ""
+
+#: theme/liquid-setup.php:77
+msgid "Primary Menu"
+msgstr ""
+
+#: bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/cart.php:55 woocommerce/cart/cart.php:76
+#: woocommerce/cart/cart.php:88
+msgid "Product"
+msgstr ""
+
+#: liquid/vendors/woocommerce/options.php:47
+msgid "Product Archive"
+msgstr ""
+
+#: liquid/vendors/woocommerce/options.php:53
+msgid "Product Archive Sidebar"
+msgstr ""
+
+#: liquid/vendors/woocommerce/template-tags.php:109
+msgid "Product Categories"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:270
+#: theme/metaboxes/liquid-woocommerce.php:55
+msgid "Product Layout"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:41
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:240
+msgid "Product Single"
+msgstr ""
+
+#: liquid/vendors/woocommerce/options.php:9
+msgid "Products"
+msgstr ""
+
+#: bbpress/user-details.php:29 bbpress/user-profile.php:15
+msgid "Profile"
+msgstr ""
+
+#: theme/liquid-demo-config.php:161
+msgid "Project Slider"
+msgstr ""
+
+#: theme/liquid-demo-config.php:113
+msgid "Projects Panel"
+msgstr ""
+
+#: theme/theme-options/liquid-promotions.php:7
+msgid "Promo Boxes"
+msgstr ""
+
+#: theme/theme-options/liquid-promotions.php:14
+msgid "Promotions"
+msgstr ""
+
+#: bbpress/form-protected.php:14
+msgid "Protected"
+msgstr ""
+
+#: templates/blog/single/part-meta.php:69
+#: templates/blog/single/part-head.php:86
+msgid "Published in:"
+msgstr ""
+
+#: templates/content/content.php:75 templates/blog/content-excerpt.php:30
+#: templates/blog/tmpl-style11.php:37 templates/blog/single/part-meta.php:55
+msgid "Published on:"
+msgstr ""
+
+#: liquid/admin/updater/liquid-register-admin.php:113
+#, php-format
+msgid "Purchase code is invalid. Need a license? %sPurchase Now%s"
+msgstr ""
+
+#: woocommerce/cart/cart.php:58 woocommerce/cart/cart.php:116
+#: woocommerce/global/quantity-input.php:28
+#: woocommerce/global/quantity-input.php:31
+msgid "Quantity"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:789
+msgid "Quantity of projects those display on related posts section."
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:82
+msgid "Quote"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Rate&hellip;"
+msgstr ""
+
+#: templates/blog/tmpl-style10.php:6
+msgid "read"
+msgstr ""
+
+#: templates/blog/content.php:12
+msgid "Read More"
+msgstr ""
+
+#: templates/blog/tmpl-style07.php:46
+msgid "Read more"
+msgstr ""
+
+#: templates/blog/tmpl-style06.php:53
+msgid "read more"
+msgstr ""
+
+#: templates/content/error.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: bbpress/form-user-register.php:36
+msgid "Register"
+msgstr ""
+
+#: liquid/admin/updater/liquid-register-admin.php:126
+msgid "Register ArcHub"
+msgstr ""
+
+#: liquid/admin/updater/liquid-register-admin.php:230
+msgid "Register your copy"
+msgstr ""
+
+#: bbpress/content-statistics.php:17
+msgid "Registered Users"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:749
+msgid "Related Posts"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:788
+msgid "Related Posts Quantity"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:760
+msgid "Related posts section style"
+msgstr ""
+
+#: woocommerce/single-product/related.php:30
+msgid "Related Products"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:238
+msgid "Related Works"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:261
+msgid "Related Works Style"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:250
+msgid "Related Works Title"
+msgstr ""
+
+#: woocommerce/compare.php:95 woocommerce/cart/cart.php:60
+#: woocommerce/cart/cart.php:139
+#: theme/theme-options/liquid-optimization.php:121
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:275
+msgid "Remove"
+msgstr ""
+
+#: liquid/admin/liquid-admin-init.php:118
+msgid ""
+"Remove posts, pages, media and any other content on your current site, We "
+"strongly recommend to reset before importing ( even if this is a fresh site )"
+" to avoid any overlap or conflict with your current content.<br/><strong>"
+"Note:</strong> Don't use the reset option if you are trying to import some "
+"parts only ( For example if you are going to import theme options only then "
+"you may continue without reset )"
+msgstr ""
+
+#: woocommerce/cart/cart.php:145 woocommerce/cart/header-mini-cart.php:54
+#: woocommerce/cart/mini-cart.php:48
+msgid "Remove this item"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr ""
+
+#: theme/liquid-demo-config.php:57
+msgid "Renovation"
+msgstr ""
+
+#: bbpress/loop-replies.php:32 bbpress/loop-replies.php:70
+#: bbpress/loop-forums.php:21 bbpress/loop-topics.php:21
+#: bbpress/content-statistics.php:32
+msgid "Replies"
+msgstr ""
+
+#: bbpress/user-details.php:41
+msgid "Replies Created"
+msgstr ""
+
+#: bbpress/user-profile.php:26
+#, php-format
+msgid "Replies Created: %s"
+msgstr ""
+
+#: bbpress/form-reply.php:29
+#, php-format
+msgid "Reply To: %s"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:262
+msgid "Request Preload for Custom Fonts"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:236
+msgid "Request Preload for Liquid Icons"
+msgstr ""
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:139
+msgid "Reset List"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:27
+msgid "Reset My Password"
+msgstr ""
+
+#: liquid/admin/liquid-admin-init.php:119
+msgid "Reset Then Import"
+msgstr ""
+
+#: theme/liquid-demo-config.php:49
+msgid "Residence"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:201
+msgid "Result Count"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:25
+msgid "Return To Cart"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:31
+msgid "Return To Shop"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:42
+msgid "Return to the dashboard"
+msgstr ""
+
+#: liquid/structure/footer.php:108
+msgid "Return to top of page"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:39
+msgid "Reviews"
+msgstr ""
+
+#: theme/metaboxes/liquid-sliders.php:20
+msgid "Revolution Slider"
+msgstr ""
+
+#: liquid/admin/views/liquid-demos.php:156
+msgid "Revslider"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:121
+#: theme/theme-options/liquid-sidebars.php:67
+#: theme/theme-options/liquid-sidebars.php:105
+#: theme/theme-options/liquid-sidebars.php:132
+#: theme/theme-options/liquid-sidebars.php:170
+#: theme/theme-options/liquid-sidebars.php:197
+#: theme/theme-options/liquid-sidebars.php:224
+#: theme/theme-options/liquid-portfolio.php:59
+#: theme/theme-options/liquid-header-mobile-nav.php:47
+#: theme/theme-options/liquid-header-mobile-nav.php:57
+#: theme/metaboxes/liquid-title-wrapper.php:162
+#: liquid/vendors/woocommerce/options.php:38
+#: liquid/vendors/woocommerce/options.php:64
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:117
+msgid "Right"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:36
+msgid "Sale!"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:195
+msgid "Saturation"
+msgstr ""
+
+#: bbpress/form-user-edit.php:173
+msgid "Save Changes"
+msgstr ""
+
+#: templates/comment/comment.php:9
+msgid "says"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:184
+msgid "Screen"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:69
+msgid "Scroll"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:182
+msgid "Scroll Button"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:193
+#: theme/metaboxes/liquid-title-wrapper.php:271
+msgid "Scroll Button Color"
+msgstr ""
+
+#: bbpress/form-search.php:17
+msgid "Search"
+msgstr ""
+
+#: woocommerce/product-searchform.php:35 bbpress/form-search.php:14
+msgid "Search for:"
+msgstr ""
+
+#: theme/theme-options/liquid-page-search.php:7
+#: theme/theme-options/liquid-sidebars.php:206
+msgid "Search Page"
+msgstr ""
+
+#: theme/theme-options/liquid-page-search.php:14
+msgid "Search Page Header"
+msgstr ""
+
+#: theme/theme-options/liquid-page-search.php:36
+msgid "Search Page Subtitle"
+msgstr ""
+
+#: theme/theme-options/liquid-page-search.php:25
+msgid "Search Page Title"
+msgstr ""
+
+#: woocommerce/product-searchform.php:36
+msgid "Search products&hellip;"
+msgstr ""
+
+#: bbpress/loop-search.php:22 bbpress/loop-search.php:44
+msgid "Search Results"
+msgstr ""
+
+#: liquid/structure/posts.php:316
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:163
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: templates/header/header-title-bar.php:94
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: theme/theme-options/liquid-header-menu.php:46
+msgid "Secondary Color"
+msgstr ""
+
+#: theme/liquid-setup.php:78
+msgid "Secondary Menu"
+msgstr ""
+
+#: templates/blog/single/part-author.php:66
+msgid "See author’s other posts"
+msgstr ""
+
+#: liquid/admin/liquid-admin-init.php:97
+msgid "Select"
+msgstr ""
+
+#: liquid/vendors/woocommerce/metaboxes.php:58
+#: liquid/vendors/woocommerce/metaboxes.php:88
+msgid "Select a background for product category label"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:31
+msgid "Select a country / region&hellip;"
+msgstr ""
+
+#: theme/theme-options/liquid-footer.php:24
+msgid "Select a footer template for your website."
+msgstr ""
+
+#: theme/theme-options/liquid-header-layout.php:25
+msgid "Select a header template for your website"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:271
+#: theme/metaboxes/liquid-woocommerce.php:56
+msgid "Select a layout for the product single page"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:15
+msgid "Select a menu to overwrite the header menu location."
+msgstr ""
+
+#: liquid/vendors/woocommerce/functions.php:926
+#: liquid/vendors/woocommerce/functions.php:965
+#: liquid/vendors/woocommerce/functions.php:967
+msgid "Select a page"
+msgstr ""
+
+#: liquid/vendors/woocommerce/functions.php:933
+#: liquid/vendors/woocommerce/functions.php:974
+msgid "Select a page, the content will display above the top bar"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:187
+msgid "Select a sidebar that will display on the blog archive pages."
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:122
+msgid "Select a sidebar that will display on the portfolio archive pages."
+msgstr ""
+
+#: theme/metaboxes/liquid-sliders.php:31 theme/metaboxes/liquid-sliders.php:47
+msgid "Select a slider"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:17
+msgid "Select a style for products to display on archive page"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:247
+#: theme/metaboxes/liquid-woocommerce.php:12
+msgid "Select a style for the single product page"
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:47
+#: theme/theme-options/liquid-header-modules.php:96
+msgid "Select an icon"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:58
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:135
+msgid "Select color scheme for mobile header."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:231
+msgid "Select content type for your grid."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:761
+msgid ""
+"Select desired style for the related posts section to display on single post"
+msgstr ""
+
+#: theme/metaboxes/liquid-sliders.php:61
+msgid "Select if the slider shows below or above the header."
+msgstr ""
+
+#: theme/metaboxes/liquid-sliders.php:28
+msgid "Select liquid Slider"
+msgstr ""
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:56
+msgid "Select Mega Menu"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:300
+msgid "Select preloder style"
+msgstr ""
+
+#: theme/metaboxes/liquid-sliders.php:44
+msgid "Select Revolution Slider"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:160
+msgid "Select sidebar 1 that will display on all blog posts."
+msgstr ""
+
+#: liquid/vendors/woocommerce/options.php:54
+msgid "Select sidebar 1 that will display on the product archive pages."
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:95
+msgid "Select sidebar that will display on all portfolio posts."
+msgstr ""
+
+#: liquid/vendors/woocommerce/options.php:28
+msgid "Select sidebar that will display on all product posts."
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:55
+msgid "Select the alignment for navigation items alignment."
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:71
+msgid "Select the color scheme for mobile navigation."
+msgstr ""
+
+#: theme/theme-options/liquid-header-layout.php:7
+msgid "Select the header"
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:23
+msgid "Select the mobile nav style."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:29
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: theme/metaboxes/liquid-sliders.php:16
+msgid "Select the type of slider that displays."
+msgstr ""
+
+#: theme/metaboxes/liquid-sliders.php:29 theme/metaboxes/liquid-sliders.php:45
+msgid "Select the unique name of the slider."
+msgstr ""
+
+#: theme/theme-options/liquid-promotions.php:34
+msgid "Select which promobox content post to display"
+msgstr ""
+
+#: theme/theme-options/liquid-promotions.php:51
+msgid ""
+"Select which promobox content post to display (works for single post only, "
+"and display after the Author Bio section)"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:65
+msgid "Selected styles will be removed from all pages."
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:190
+msgid ""
+"Set Button Border Radius. Add value with the unit type (px, em, etc.). "
+"Example: 1.5em"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:85
+msgid "Set GDPR Box Background"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:164
+msgid ""
+"Set GDPR Box Border Radius. Add value with the unit type (px, em, etc.). "
+"Example: 1.5em"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:151
+msgid ""
+"Set GDPR Box Padding. Add value with the unit type (px, em, etc.). Example: "
+"1.5em"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:177
+msgid ""
+"Set GDPR Button Padding. Add value with the unit type (px, em, etc.). "
+"Example: 1.5em"
+msgstr ""
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:274
+msgid "Set image/svg icon"
+msgstr ""
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:271
+msgid "Set menu item image/svg icon"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:436
+msgid "Set the offset for localscroll. Value is in px."
+msgstr ""
+
+#: liquid/admin/views/liquid-tabs.php:21
+#: liquid/libs/merlin/merlin-config.php:38
+msgid "Setup Wizard"
+msgstr ""
+
+#: templates/blog/single/part-share.php:46
+#: templates/portfolio/single/split.php:80
+msgid "Share"
+msgstr ""
+
+#: templates/blog/single/classic.php:43 templates/blog/single/default.php:48
+msgid "Share On"
+msgstr ""
+
+#: templates/portfolio/single/gallery-slider.php:38
+msgid "Share on"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:52 woocommerce/cart/cart-totals.php:53
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:58
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:35
+#: woocommerce/checkout/thankyou.php:27 woocommerce/cart/cart.php:27
+msgid "Shopping Cart"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:185
+msgid "Show  on Mobile only?"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:129
+msgid "Show Gallery?"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:633
+msgid "Show Only One Post Category"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:140
+msgid "Show Products Limiter"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:186
+msgid "Show the widgetized side drawer only for mobile devices?"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:151
+msgid "Show Widgetized Side Drawer"
+msgstr ""
+
+#: liquid/vendors/woocommerce/template-tags.php:153
+msgid "Show:"
+msgstr ""
+
+#. %d: total results
+#: woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/result-count.php:27
+msgid "Showing the single result"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:121
+msgid "Sidebar of Portfolio Archive"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:213
+msgid "Sidebar of Search Page"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:220
+msgid "Sidebar Position of Search Page"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:26
+msgid "Sidebar Style"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:8
+#: liquid/admin/views/liquid-demos.php:172
+msgid "Sidebars"
+msgstr ""
+
+#: liquid/admin/liquid-admin-init.php:123
+msgid ""
+"Since you selected to reset before importing please be aware this action "
+"cannot be reversed ( Any removed content cannot be restored )"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:40
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:107
+#: theme/theme-options/liquid-blog.php:277
+#: theme/theme-options/liquid-blog.php:432
+#: theme/theme-options/liquid-blog.php:587
+msgid "Single Category"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:617
+msgid "Single Post Style"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:286
+msgid "Single Product Title Wrapper"
+msgstr ""
+
+#: liquid/admin/liquid-admin-elementor.php:23
+#: liquid/admin/liquid-admin-elementor.php:24
+msgid "Site Settings"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:45
+msgid "Skip"
+msgstr ""
+
+#: liquid/structure/header.php:157
+msgid "Skip links"
+msgstr ""
+
+#: liquid/structure/header.php:153
+msgid "Skip to content"
+msgstr ""
+
+#: liquid/structure/header.php:150
+msgid "Skip to primary navigation"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:34
+msgid "SKU:"
+msgstr ""
+
+#: theme/metaboxes/liquid-sliders.php:60
+msgid "Slider Position"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:72
+msgid "Slider Revolution"
+msgstr ""
+
+#: theme/metaboxes/liquid-sliders.php:15
+msgid "Slider Type"
+msgstr ""
+
+#: theme/metaboxes/liquid-sliders.php:8
+msgid "Sliders"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:304
+msgid "Sliding"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr ""
+
+#: liquid/admin/views/liquid-features.php:11
+msgid "Smart Dashboard keeps your site up-to-date. Free for lifetime."
+msgstr ""
+
+#. Description of the theme
+msgid "Smart, Powerful and Unlimited Customizable WordPress Theme."
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:165
+msgid "Social identities"
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:25
+msgid "Social Links"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:655
+msgid "Social Sharing"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:220
+msgid "Social Sharing Module"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:191
+msgid "Soft Light"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:29
+msgid "Sold Out"
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:118
+msgid "Solid"
+msgstr ""
+
+#: templates/content/error.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:212
+msgid "Sorter By"
+msgstr ""
+
+#: theme/theme-options/liquid-advanced.php:39
+msgid "Space before &lt;/body&gt;"
+msgstr ""
+
+#: theme/theme-options/liquid-advanced.php:29
+msgid "Space before &lt;/head&gt;"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:305
+msgid "Spinner"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:306
+msgid "Spinner Classic"
+msgstr ""
+
+#: theme/liquid-demo-config.php:185
+#: theme/theme-options/liquid-header-title-wrapper.php:122
+#: theme/metaboxes/liquid-title-wrapper.php:163
+msgid "Split"
+msgstr ""
+
+#: bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr ""
+
+#: bbpress/form-topic-split.php:24
+#, php-format
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-split.php:42
+#, php-format
+msgid "Split: %s"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:207
+msgid "Square - (295 x 295)"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:47
+msgid "Start"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:100
+msgid "Start Customizing"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:60
+#, php-format
+msgid "Started by: %1$s"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:57
+msgid "State / County"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:69
+msgid "State / county"
+msgstr ""
+
+#: bbpress/form-forum.php:100
+msgid "Status:"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:214
+#: theme/theme-options/liquid-blog.php:370
+#: theme/theme-options/liquid-header-mobile-nav.php:22
+msgid "Style"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:46
+#: theme/theme-options/liquid-blog.php:216
+#: theme/theme-options/liquid-blog.php:372
+#: theme/theme-options/liquid-blog.php:527
+#: theme/theme-options/liquid-blog.php:763
+#: theme/theme-options/liquid-woocommerce.php:250
+#: theme/theme-options/liquid-portfolio.php:41
+#: theme/theme-options/liquid-portfolio.php:264
+#: theme/metaboxes/liquid-woocommerce.php:15
+msgid "Style 1"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:55
+#: theme/theme-options/liquid-blog.php:225
+#: theme/theme-options/liquid-blog.php:381
+#: theme/theme-options/liquid-blog.php:536
+msgid "Style 10"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:56
+#: theme/theme-options/liquid-blog.php:226
+#: theme/theme-options/liquid-blog.php:382
+#: theme/theme-options/liquid-blog.php:537
+msgid "Style 11"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:57
+#: theme/theme-options/liquid-blog.php:227
+#: theme/theme-options/liquid-blog.php:383
+#: theme/theme-options/liquid-blog.php:538
+msgid "Style 12"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:58
+#: theme/theme-options/liquid-blog.php:228
+#: theme/theme-options/liquid-blog.php:384
+#: theme/theme-options/liquid-blog.php:539
+msgid "Style 13"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:59
+#: theme/theme-options/liquid-blog.php:229
+#: theme/theme-options/liquid-blog.php:385
+#: theme/theme-options/liquid-blog.php:540
+msgid "Style 14"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:47
+#: theme/theme-options/liquid-blog.php:217
+#: theme/theme-options/liquid-blog.php:373
+#: theme/theme-options/liquid-blog.php:528
+#: theme/theme-options/liquid-blog.php:764
+#: theme/theme-options/liquid-woocommerce.php:251
+#: theme/theme-options/liquid-portfolio.php:42
+#: theme/theme-options/liquid-portfolio.php:265
+#: theme/metaboxes/liquid-woocommerce.php:16
+msgid "Style 2"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:48
+#: theme/theme-options/liquid-blog.php:218
+#: theme/theme-options/liquid-blog.php:374
+#: theme/theme-options/liquid-blog.php:529
+#: theme/theme-options/liquid-blog.php:765
+#: theme/theme-options/liquid-woocommerce.php:252
+#: theme/theme-options/liquid-portfolio.php:43
+#: theme/metaboxes/liquid-woocommerce.php:17
+msgid "Style 3"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:49
+#: theme/theme-options/liquid-blog.php:219
+#: theme/theme-options/liquid-blog.php:375
+#: theme/theme-options/liquid-blog.php:530
+#: theme/theme-options/liquid-portfolio.php:44
+msgid "Style 4"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:50
+#: theme/theme-options/liquid-blog.php:220
+#: theme/theme-options/liquid-blog.php:376
+#: theme/theme-options/liquid-blog.php:531
+#: theme/theme-options/liquid-portfolio.php:45
+msgid "Style 5"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:51
+#: theme/theme-options/liquid-blog.php:221
+#: theme/theme-options/liquid-blog.php:377
+#: theme/theme-options/liquid-blog.php:532
+msgid "Style 6"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:52
+#: theme/theme-options/liquid-blog.php:222
+#: theme/theme-options/liquid-blog.php:378
+#: theme/theme-options/liquid-blog.php:533
+msgid "Style 7"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:53
+#: theme/theme-options/liquid-blog.php:223
+#: theme/theme-options/liquid-blog.php:379
+#: theme/theme-options/liquid-blog.php:534
+msgid "Style 8"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:54
+#: theme/theme-options/liquid-blog.php:224
+#: theme/theme-options/liquid-blog.php:380
+#: theme/theme-options/liquid-blog.php:535
+msgid "Style 9"
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:76
+msgid "Sub-Heading"
+msgstr ""
+
+#: comments.php:45 woocommerce/single-product-reviews.php:86
+#: bbpress/form-reply.php:135 bbpress/form-forum.php:138
+#: bbpress/form-reply-move.php:72 bbpress/form-topic-merge.php:93
+#: bbpress/form-topic.php:203 bbpress/form-topic-split.php:97
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/product-searchform.php:37
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:19
+msgid "Subscribed Forums"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:34
+msgid "Subscribed Topics"
+msgstr ""
+
+#: bbpress/user-details.php:58
+msgid "Subscriptions"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:166
+msgid "Subtitle"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:53
+#: woocommerce/cart/header-mini-cart.php:108
+#: woocommerce/cart/cart-totals.php:89 woocommerce/cart/cart-totals.php:90
+#: woocommerce/cart/mini-cart.php:83
+msgid "Subtotal"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:217
+#: theme/theme-options/liquid-optimization.php:253
+msgid "Swap"
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:20
+msgid "Switch off to disable the GDPR Box"
+msgstr ""
+
+#: theme/theme-options/liquid-header-layout.php:14
+msgid "Switch off to hide the header on your website."
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:16
+msgid "Switch off to hide the title bar on your website."
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:239
+msgid "Switch on to display related works on single portfolio pages."
+msgstr ""
+
+#: theme/theme-options/liquid-page-404.php:35
+msgid "Switch on to display the \"back to home\" button."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:667
+msgid "Switch on to display the author info box on single post pages."
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:506
+msgid "Switch on to display the back to top link"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:727
+msgid ""
+"Switch on to display the previous post and next post on single post pages."
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:221
+msgid ""
+"Switch on to display the social sharing module on single portfolio pages."
+msgstr ""
+
+#: theme/theme-options/liquid-page-search.php:26
+msgid "Switch on to display the titlebar for the search result pages."
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:97
+msgid "Switch on to enable custom cursor"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:289
+msgid "Switch on to enable preloader"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:27
+msgid "Switch on to enable the optimize files."
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:130
+msgid "Switch on to hide outer circle"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:46
+msgid ""
+"Switch on to use the same sidebars across all pages by overwriting the page "
+"options."
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:84
+msgid ""
+"Switch on to use the same sidebars across all portfolio posts by overwriting "
+"the page options."
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:292
+msgid "Swtich on to show the date on your portfolio item."
+msgstr ""
+
+#: templates/content/content.php:50
+#, php-format
+msgid "Tagged: %s"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:93
+#: theme/theme-options/liquid-blog.php:263
+#: theme/theme-options/liquid-blog.php:418
+#: theme/theme-options/liquid-blog.php:574
+msgid "Tags"
+msgstr ""
+
+#: bbpress/form-reply.php:75 templates/blog/single/classic.php:38
+msgid "Tags:"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:86
+msgid "Takayuki Miyoshi"
+msgstr ""
+
+#. Separates tags, categories, etc. when displaying a post.
+#: liquid/structure/posts.php:252
+msgctxt "taxonomy terms separator"
+msgid ", "
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:401
+msgid "Text Selection"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:408
+msgid "Text Selection Background"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:415
+msgid "Text Selection Color"
+msgstr ""
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:119
+msgid "Text Transform"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:68 woocommerce/checkout/thankyou.php:110
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:71
+msgid ""
+"Thanks for purchasing ArcHub! You can now register your product in 10 "
+"seconds to install plugins, import demos and unlock exlusive features."
+msgstr ""
+
+#: liquid/admin/updater/liquid-register-admin.php:108
+#: liquid/admin/views/liquid-demos.php:20
+#: liquid/admin/views/liquid-plugins.php:23
+#, php-format
+msgid "The %s theme needs to be registered. %sRegister Now%s"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:147
+#: theme/metaboxes/liquid-title-wrapper.php:203
+msgid "The background should have an image"
+msgstr ""
+
+#: bbpress/form-forum.php:161
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: bbpress/form-reply.php:166 bbpress/form-topic.php:226
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:132
+msgid "The passing time (x day ago)"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:85
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press "
+"\"Next\" to continue the setup wizard."
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:64
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr ""
+
+#: bbpress/form-reply.php:158
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: liquid/liquid-theme-options-init.php:60
+#: liquid/liquid-theme-options-init.php:61
+#: liquid/admin/views/liquid-demos.php:164
+msgid "Theme Options"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:56
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:60
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:21
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: bbpress/form-user-edit.php:115
+#, php-format
+msgid ""
+"There is a pending email address change to <code>%1$s</code>. <a "
+"href=\"%2$s\">Cancel</a>"
+msgstr ""
+
+#: theme/theme-options/liquid-header-menu.php:15
+msgid "These settings control the typography for all menus."
+msgstr ""
+
+#: theme/theme-options/liquid-header-menu.php:28
+msgid "These settings control the typography for mobile menu."
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:60
+msgid "These settings control the typography for the titlebar heading"
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:102
+msgid "These settings control the typography for the titlebar subheading"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:376
+msgid "This controls updating cart usinig AJAX without refreshing page."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:426
+msgid ""
+"This file controls some features like background slideshow, kenburns, "
+"elementor carousels, video background etc. Disabling this may break some "
+"Elementor featues."
+msgstr ""
+
+#: bbpress/form-forum.php:47
+msgid ""
+"This forum is closed to new content, however your account still allows you "
+"to do so."
+msgstr ""
+
+#: bbpress/form-topic.php:53
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:224
+msgid ""
+"This option works with predefined WooCommerce catalog page and category pages"
+msgstr ""
+
+#: liquid/admin/views/liquid-demos.php:122
+msgid "This process will overwrite your current settings."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:99
+msgid "This settings for advanced users. Manage js files."
+msgstr ""
+
+#: bbpress/form-reply.php:36
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/user-favorites.php:28
+msgid "This user has no favorite topics."
+msgstr ""
+
+#: bbpress/user-topics-created.php:28
+msgid "This user has not created any topics."
+msgstr ""
+
+#: bbpress/user-replies-created.php:28
+msgid "This user has not replied to any topics."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:28
+msgid "This user is not currently subscribed to any forums."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:47
+msgid "This user is not currently subscribed to any topics."
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:45
+#: theme/theme-options/liquid-gdpr.php:46
+msgid "This website uses cookies to improve your web experience."
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:202
+msgid "Thumb Dimension"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:568
+#: theme/theme-options/liquid-page-maintenance.php:171
+#: theme/theme-options/liquid-page-404.php:13
+#: theme/metaboxes/liquid-post-format.php:51
+msgid "Title"
+msgstr ""
+
+#: theme/theme-options/liquid-header-title-wrapper.php:15
+msgid "Title Bar"
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:59
+msgid "Title Bar Heading Typography"
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:101
+msgid "Title Bar Subheading Typography"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:777
+msgid "Title of Related Posts"
+msgstr ""
+
+#: theme/metaboxes/liquid-title-wrapper.php:16
+#: theme/metaboxes/liquid-title-wrapper.php:22
+msgid "Title Wrapper"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:30
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+
+#: theme/liquid-template-tags.php:474 templates/header/default.php:99
+msgid "Toggle navigation"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:76
+msgid "Top"
+msgstr ""
+
+#: theme/theme-options/liquid-promotions.php:33
+msgid "Top Promo box content"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:476
+msgid "Top Scroll Indicator Background"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:446
+#: theme/theme-options/liquid-extras.php:452
+msgid "Top Scroll Indicator Bar"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:486
+msgid "Top Scroll Indicator Bar Background"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:463
+msgid "Top Scroll Indicator Bar Height"
+msgstr ""
+
+#: bbpress/loop-topics.php:19 bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94
+msgid "Topic"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:64 bbpress/form-topic-split.php:68
+msgid "Topic Extras"
+msgstr ""
+
+#: bbpress/form-topic.php:145
+msgid "Topic Status:"
+msgstr ""
+
+#: bbpress/content-statistics.php:37
+msgid "Topic Tags"
+msgstr ""
+
+#: bbpress/form-topic.php:101
+msgid "Topic Tags:"
+msgstr ""
+
+#: bbpress/form-topic.php:75
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-topic.php:133
+msgid "Topic Type:"
+msgstr ""
+
+#: bbpress/loop-search-topic.php:26
+msgid "Topic: "
+msgstr ""
+
+#: bbpress/loop-forums.php:20 bbpress/content-statistics.php:27
+msgid "Topics"
+msgstr ""
+
+#: bbpress/user-details.php:35
+msgid "Topics Started"
+msgstr ""
+
+#: bbpress/user-profile.php:25
+#, php-format
+msgid "Topics Started: %s"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:100 woocommerce/cart/cart.php:59
+#: woocommerce/cart/cart.php:134 woocommerce/cart/cart-totals.php:94
+#: woocommerce/cart/cart-totals.php:95
+msgid "Total"
+msgstr ""
+
+#: liquid/admin/views/liquid-dashboard.php:10
+msgid "Total design freedom for everyone."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:90
+msgid "Total:"
+msgstr ""
+
+#: theme/theme-options/liquid-advanced.php:19
+msgid "Tracking Code"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:303
+msgid "Translate or change the \"date\" text. Leave empty for no change."
+msgstr ""
+
+#: theme/theme-options/liquid-header-mobile-nav.php:44
+msgid "Trigger Alignment"
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:180
+msgid ""
+"Try 'Difference' and white background for inner circle and active color 😉"
+msgstr ""
+
+#: theme/theme-options/liquid-typography.php:44
+msgid "TTF"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:297
+msgid "Turn on enable ajax add to cart on single product page"
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:149
+msgid ""
+"Turn on if you want to use the same sidebars on all blog posts. This option "
+"overrides the blog options."
+msgstr ""
+
+#: liquid/vendors/woocommerce/options.php:17
+msgid ""
+"Turn on if you want to use the same sidebars on all product posts. This "
+"option overrides the product options."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:715
+msgid "Turn on to display author info in floating box"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:689
+msgid "Turn on to display floating box with share social links and admin info"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:678
+msgid "Turn on to display the author role in info box below posts."
+msgstr ""
+
+#: theme/theme-options/liquid-advanced.php:67
+msgid "Turn on to enable caching the dynamic CSS in your database."
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:260
+#: theme/metaboxes/liquid-woocommerce.php:44
+msgid "Turn on to enable custom layouts"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:152
+msgid "Turn on to enable widgetized side drawer"
+msgstr ""
+
+#: liquid/vendors/woocommerce/options.php:72
+msgid "Turn on to hide the sidebar on mobile devices"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:108
+msgid "Turn on to show breadcrumb"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:119
+msgid "Turn on to show grid/list selector"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:141
+msgid "Turn on to show products limits on the page"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:202
+msgid "Turn on to show result count on shop/category page"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:213
+msgid "Turn on to show sorterby on shop/category page"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:308
+msgid "Turn on to show the share links"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:33
+msgid "Turn on to show the woo category title bar"
+msgstr ""
+
+#: templates/blog/single/part-share.php:58
+msgid "Twitter"
+msgstr ""
+
+#: bbpress/form-user-edit.php:130
+msgid "Type your new password again."
+msgstr ""
+
+#: theme/theme-options/liquid-gdpr.php:66
+#: theme/theme-options/liquid-typography.php:7
+msgid "Typography"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:57
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: liquid/admin/views/liquid-features.php:3
+msgid "Unlock Premium Features"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:45 woocommerce/cart/shipping-calculator.php:88
+msgid "Update"
+msgstr ""
+
+#: woocommerce/cart/cart.php:182 woocommerce/cart/cart.php:183
+msgid "Update cart"
+msgstr ""
+
+#: bbpress/form-user-edit.php:178
+msgid "Update Profile"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:41
+msgid "Update totals"
+msgstr ""
+
+#: bbpress/form-user-edit.php:178
+msgid "Update User"
+msgstr ""
+
+#: theme/theme-options/liquid-typography.php:21
+msgid ""
+"Upload custom font. All files are not necessary but are recommended for full "
+"browser support. You can upload as many custom fonts as you need. Click the "
+"\"Add\" button for additional upload boxes."
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:49
+msgid "Upload images or add from media library."
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:115
+msgid "Upload video file"
+msgstr ""
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:122
+msgid "Uppercase"
+msgstr ""
+
+#: theme/theme-options/liquid-header-modules.php:54
+#: theme/theme-options/liquid-header-modules.php:102
+#: theme/metaboxes/liquid-post-format.php:74
+msgid "URL"
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:177
+msgid "Url"
+msgstr ""
+
+#: bbpress/form-reply-move.php:49 bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:122
+msgid "Use this option when the video does not come from YouTube or Vimeo"
+msgstr ""
+
+#: templates/blog/single/classic.php:38 templates/blog/single/default.php:44
+msgctxt "Used between list items, there is a space"
+msgid " "
+msgstr ""
+
+#: bbpress/form-user-edit.php:143 bbpress/form-user-edit.php:146
+msgid "User Role"
+msgstr ""
+
+#: bbpress/form-user-login.php:17 bbpress/form-user-edit.php:98
+#: bbpress/form-user-register.php:23
+msgid "Username"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:18
+msgid "Username or Email"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:72
+msgid "Vertical Alignment"
+msgstr ""
+
+#: theme/liquid-demo-config.php:153
+msgid "Vertical Portfolio"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Very poor"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:98
+#: theme/metaboxes/liquid-post-format.php:130
+msgid "Video"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:114
+msgid "Video Upload"
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:107
+#: theme/metaboxes/liquid-post-format.php:139
+msgid "Video URL"
+msgstr ""
+
+#: theme/liquid-template-tags.php:542
+msgid "View All Articles"
+msgstr ""
+
+#: woocommerce/cart/header-mini-cart.php:120 woocommerce/cart/mini-cart.php:88
+msgid "View Cart"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:86
+msgid "View Plugins"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:97
+msgid "View your website"
+msgstr ""
+
+#: bbpress/form-forum.php:109
+msgid "Visibility:"
+msgstr ""
+
+#: bbpress/loop-topics.php:20
+msgid "Voices"
+msgstr ""
+
+#: 404.php:40
+msgid "We can’t seem to find the page you’re looking for."
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:21
+msgid ""
+"We recommend keeping the optimization options disabled while developing the "
+"website. You can enable this option to boost the performance once you are "
+"done with the development."
+msgstr ""
+
+#: bbpress/form-user-register.php:18
+msgid ""
+"We use your email address to email you a secure password and verify your "
+"account."
+msgstr ""
+
+#: theme/theme-options/liquid-page-maintenance.php:102
+msgid "We&#39;ll Be Right Back."
+msgstr ""
+
+#: comments.php:31 bbpress/form-user-edit.php:57
+msgid "Website"
+msgstr ""
+
+#: bbpress/form-anonymous.php:32
+msgid "Website:"
+msgstr ""
+
+#: liquid/structure/posts.php:336
+#, php-format
+msgid "Week %1$s of %2$s"
+msgstr ""
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:166
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: liquid/structure/posts.php:336
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:572
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: liquid/admin/views/liquid-dashboard.php:9
+msgid "Welcome to ArcHub!"
+msgstr ""
+
+#: bbpress/form-topic-split.php:29
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:634
+msgid "When you turn it \"off\", all categories are will be listed."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:626
+msgid "Wide"
+msgstr ""
+
+#: theme/theme-options/liquid-portfolio.php:210
+msgid "Wide - (600 x 295)"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:173
+msgid "Widgetized Side Drawer"
+msgstr ""
+
+#. 1: first result 2: last result 3: total results
+#: woocommerce/loop/result-count.php:35
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme/theme-options/liquid-typography.php:39
+msgid "WOFF"
+msgstr ""
+
+#: theme/theme-options/liquid-typography.php:34
+msgid "WOFF2"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:43
+msgid "Woo Ajax filter"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:54
+msgid "Woo Ajax pagination"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:82
+msgid "Woo Ajax pagination button text"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:65
+msgid "Woo Ajax pagination type"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:16
+msgid "Woo Category Product Style"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:100
+msgid "Woo Category Subtitle"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:94
+msgid "Woo Category Title"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:32
+msgid "Woo Category Title Bar"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:259
+#: theme/metaboxes/liquid-woocommerce.php:43
+msgid "Woo Single Product Layout"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:307
+msgid "Woo Single Product Share"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:90
+msgid "WooCommerce"
+msgstr ""
+
+#: theme/theme-options/liquid-woocommerce.php:4
+msgid "Woocommerce"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:375
+msgid "Woocommerce Cart Fragments JS"
+msgstr ""
+
+#: theme/liquid-register-plugins.php:95
+msgid "WooCommerce is the world’s most popular open-source eCommerce solution."
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:133
+msgid "Wordpress Date Format (WP Settings > General)"
+msgstr ""
+
+#: liquid/admin/views/liquid-demos.php:87
+msgid "Working"
+msgstr ""
+
+#: theme/theme-options/liquid-optimization.php:336
+msgid "WP Emojis"
+msgstr ""
+
+#: liquid/structure/posts.php:336 liquid/structure/posts.php:342
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:548
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:571
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:591
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:611
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:868
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: theme/theme-options/liquid-blog.php:82
+#: theme/theme-options/liquid-blog.php:109
+#: theme/theme-options/liquid-blog.php:252
+#: theme/theme-options/liquid-blog.php:279
+#: theme/theme-options/liquid-blog.php:408
+#: theme/theme-options/liquid-blog.php:434
+#: theme/theme-options/liquid-blog.php:563
+#: theme/theme-options/liquid-blog.php:589
+#: theme/theme-options/liquid-woocommerce.php:132
+#: theme/theme-options/liquid-woocommerce.php:188
+#: theme/theme-options/liquid-optimization.php:84
+#: theme/theme-options/liquid-optimization.php:101
+#: theme/theme-options/liquid-optimization.php:139
+#: theme/theme-options/liquid-optimization.php:151
+#: theme/theme-options/liquid-optimization.php:163
+#: theme/theme-options/liquid-optimization.php:239
+#: theme/theme-options/liquid-optimization.php:265
+#: theme/theme-options/liquid-header-layout.php:35
+#: theme/theme-options/liquid-header-mobile-nav.php:173
+#: theme/theme-options/liquid-header-mobile-nav.php:183
+#: liquid/vendors/woocommerce/options.php:74
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:129
+msgid "Yes"
+msgstr ""
+
+#: bbpress/feedback-logged-in.php:13
+msgid "You are already logged in."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:28
+msgid "You are not currently subscribed to any forums."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:47
+msgid "You are not currently subscribed to any topics."
+msgstr ""
+
+#: theme/theme-options/liquid-sidebars.php:21
+msgid "You can add as many custom sidebars as you need."
+msgstr ""
+
+#: bbpress/form-reply-move.php:29
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+
+#: theme/theme-options/liquid-extras.php:20
+msgid "You can set a custom image as the system cursor."
+msgstr ""
+
+#: bbpress/form-forum.php:169
+msgid "You cannot create new forums."
+msgstr ""
+
+#: bbpress/form-topic.php:234
+msgid "You cannot create new topics."
+msgstr ""
+
+#: bbpress/form-reply-move.php:85
+msgid "You cannot edit this reply."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:106 bbpress/form-topic-split.php:110
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: bbpress/form-reply.php:174
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: bbpress/user-favorites.php:28
+msgid "You currently have no favorite topics."
+msgstr ""
+
+#: bbpress/feedback-no-access.php:16
+msgid "You do not have permission to view this forum."
+msgstr ""
+
+#: bbpress/form-reply-move.php:85
+msgid "You do not have the permissions to edit this reply!"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:106 bbpress/form-topic-split.php:110
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: bbpress/user-topics-created.php:28
+msgid "You have not created any topics."
+msgstr ""
+
+#: bbpress/user-replies-created.php:28
+msgid "You have not replied to any topics."
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:32
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:31
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:72
+msgid ""
+"You may have already run this theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+
+#: bbpress/form-reply.php:64 bbpress/form-forum.php:82
+#: bbpress/form-topic.php:90
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:103
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: bbpress/form-forum.php:169
+msgid "You must be logged in to create new forums."
+msgstr ""
+
+#: bbpress/form-topic.php:234
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: bbpress/form-reply.php:174
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:75
+msgid "You're good to go!"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:92
+msgid "You're Ready!"
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:83
+msgid "You're up to speed!"
+msgstr ""
+
+#: bbpress/form-reply.php:44 bbpress/form-forum.php:55
+#: bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:77
+msgid ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+msgstr ""
+
+#: templates/comment/comment.php:27
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: bbpress/form-anonymous.php:17
+msgid "Your information:"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:70
+msgid "Your order"
+msgstr ""
+
+#: bbpress/form-user-edit.php:133
+msgid ""
+"Your password should be at least ten characters long. Use upper and lower "
+"case letters, numbers, and symbols to make it even stronger."
+msgstr ""
+
+#. Theme Author
+#: liquid/libs/merlin/merlin-config.php:95
+#, php-format
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr ""
+
+#: liquid/libs/merlin/merlin-config.php:65
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
+
+#: bbpress/form-user-register.php:17
+msgid "Your username must be unique, and cannot be changed later."
+msgstr ""
+
+#: theme/metaboxes/liquid-post-format.php:108
+msgid "YouTube or Vimeo video URL"
+msgstr ""
+
+#: theme/liquid-hooks.php:965
+msgid "🍪 This website uses cookies to improve your web experience."
+msgstr ""

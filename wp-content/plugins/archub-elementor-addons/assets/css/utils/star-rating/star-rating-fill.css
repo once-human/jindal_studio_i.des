@@ -1,0 +1,1 @@
+.lqd-star-rating-fill{position:relative}.lqd-star-rating-fill:before{content:"";display:inline-block;width:100%;height:100%;position:absolute;top:0;left:0;background-color:var(--color-primary);border-radius:inherit;opacity:.2}.lqd-star-rating-fill li{position:relative;z-index:1}

@@ -1,0 +1,1 @@
+.lqd-css-sticky-column{align-items:flex-start;--lqd-sticky-offset:30px}.lqd-css-sticky-column>.elementor-widget-wrap{position:sticky;top:calc(var(--lqd-sticky-offset) + var(--lqd-sticky-header-height, 0px))}

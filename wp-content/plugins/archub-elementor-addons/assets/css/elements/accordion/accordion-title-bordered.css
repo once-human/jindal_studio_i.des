@@ -1,0 +1,1 @@
+.accordion-title-bordered .accordion-item:not(:last-child){margin-bottom:1.25em}.accordion-title-bordered .accordion-title a{padding-inline-start:var(--accordion-space);padding-inline-end:calc(var(--accordion-space)*2);border:1px solid #d8dbe2}

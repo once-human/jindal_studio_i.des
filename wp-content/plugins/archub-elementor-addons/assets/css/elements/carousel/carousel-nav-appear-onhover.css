@@ -1,0 +1,1 @@
+.carousel-nav.carousel-nav-appear-onhover{transition:opacity .3s,visibility .3s;opacity:0;visibility:hidden}.carousel-container:hover .carousel-nav.carousel-nav-appear-onhover{opacity:1;visibility:visible}

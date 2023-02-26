@@ -1,0 +1,1 @@
+@keyframes lqdFIFloatOne{0%{transform:translateY(var(--float-animate-from, 0%))}to{transform:translateY(var(--float-animate-to, 3%))}}.lqd-imggrp-single[data-float]{--float-animation-ease:ease;--float-animate-from:0%;--float-animate-to:3%;--float-delay:0s;animation:lqdFIFloatOne 1s var(--float-animation-ease) infinite alternate;animation-delay:var(--float-delay)}

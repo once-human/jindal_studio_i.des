@@ -1,0 +1,1 @@
+@keyframes btnIconRipple{0%{border-width:4px;transform:scale(1)}80%{border-width:1px;transform:scale(1.35)}to{opacity:0}}.btn-icon-ripple .btn-icon:before{content:"";display:inline-block;position:absolute;top:-2px;left:-2px;bottom:-2px;right:-2px;border-radius:inherit;border:1px solid var(--color-primary);animation:btnIconRipple 2s cubic-bezier(.23,1,.32,1) both infinite}

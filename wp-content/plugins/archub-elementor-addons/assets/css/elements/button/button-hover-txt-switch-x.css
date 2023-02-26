@@ -1,0 +1,1 @@
+.btn-hover-txt-switch-x .btn-txt-inner:after{transform:translateX(110%)}.btn-hover-txt-switch-x:hover .btn-txt-inner{transform:translateX(-100%)}.btn-hover-txt-switch-x:hover .btn-txt-inner:after{transform:translateX(100%)}

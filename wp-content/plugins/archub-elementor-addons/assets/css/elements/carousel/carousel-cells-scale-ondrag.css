@@ -1,0 +1,1 @@
+.carousel-cells-scale-ondrag{--ondrag-scale:0.95}.carousel-cells-scale-ondrag .is-pointer-down .carousel-item-inner{transform:scale(var(--ondrag-scale))}

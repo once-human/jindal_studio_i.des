@@ -1,0 +1,1 @@
+[data-custom-animations=true].elementor-section:not(.ca-initvalues-applied)>.elementor-container>.elementor-column,[data-custom-animations=true]:not(.elementor-section):not(.ca-initvalues-applied){opacity:0!important}@media (max-width:768px){[data-disable-animations-onmobile=true] [data-custom-animations=true]:not(.ca-initvalues-applied){opacity:1!important}}

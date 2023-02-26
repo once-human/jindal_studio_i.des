@@ -1,0 +1,944 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">liquid-header</custom-type>
+		<custom-type translate="1">liquid-footer</custom-type>
+		<custom-type translate="1">liquid-portfolio</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">liquid-portfolio-category</taxonomy>
+	</taxonomies>
+	<elementor-widgets>
+		<widget name="ld_button">
+			<conditions>
+				<condition key="widgetType">ld_button</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Button Text" editor_type="LINE">title</field>
+			</fields>
+		</widget>
+		
+		<widget name="ld_accordion">
+			<conditions>
+				<condition key="widgetType">ld_accordion</condition>
+			</conditions>
+			<fields-in-item items_of="items">
+				<field type="Liquid Accordion: Title" editor_type="LINE">title</field>
+				<field type="Liquid Accordion: Content" editor_type="LINE">content</field>
+			</fields-in-item>
+		</widget>
+		
+		<widget name="ld_animated_frame">
+			<conditions>
+				<condition key="widgetType">ld_animated_frame</condition>
+			</conditions>
+			<fields-in-item items_of="list">
+				<field type="Liquid Animated Frame: Title" editor_type="LINE">title</field>
+				<field type="Liquid Animated Frame: Content" editor_type="LINE">content</field>
+			</fields-in-item>
+		</widget>
+		
+		<widget name="ld_asymmetric_slider">
+			<conditions>
+				<condition key="widgetType">ld_asymmetric_slider</condition>
+			</conditions>
+			<fields-in-item items_of="list">
+				<field type="Liquid Asymmetric Slider: Title" editor_type="LINE">title</field>
+				<field type="Liquid Asymmetric Slider: Subtitle" editor_type="LINE">subtitle</field>
+				<field type="Liquid Asymmetric Slider: Description" editor_type="LINE">description</field>
+				<field type="Liquid Asymmetric Slider: Button" editor_type="LINE">btn_label</field>
+			</fields-in-item>
+		</widget>
+		
+		<widget name="ld_bananas_banner">
+			<conditions>
+				<condition key="widgetType">ld_bananas_banner</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Banner Bananas: Heading" editor_type="LINE">heading</field>
+				<field type="Liquid Banner Bananas: Heading 2" editor_type="LINE">heading2</field>
+			</fields>
+		</widget>
+		
+		<widget name="ld_banner">
+			<conditions>
+				<condition key="widgetType">ld_banner</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Overlay Banner: Title" editor_type="LINE">title</field>
+				<field type="Liquid Banner Bananas: Button" editor_type="LINE">ib_title</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_blog">
+			<conditions>
+				<condition key="widgetType">ld_blog</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Blog: Label-all" editor_type="LINE">filter_lbl_all</field>
+				<field type="Liquid Blog: Filter Title" editor_type="LINE">filter_title</field>
+				<field type="Liquid Blog: Button Label" editor_type="LINE">link_label</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_carousel_stack">
+			<conditions>
+				<condition key="widgetType">ld_carousel_stack</condition>
+			</conditions>
+			<fields-in-item items_of="list">
+				<field type="Liquid Carousel Stack: Title" editor_type="LINE">title</field>
+				<field type="Liquid Carousel Stack: Content" editor_type="LINE">list_content</field>
+			</fields-in-item>
+		</widget>
+		
+		<widget name="ld_carousel">
+			<conditions>
+				<condition key="widgetType">ld_carousel</condition>
+			</conditions>
+			<fields-in-item items_of="list">
+				<field type="Liquid Carousel: Content" editor_type="LINE">list_content</field>
+			</fields-in-item>
+		</widget>
+		
+		<widget name="ld_countdown">
+			<conditions>
+				<condition key="widgetType">ld_countdown</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Countdown: Days" editor_type="LINE">day_label</field>
+				<field type="Liquid Countdown: Hours" editor_type="LINE">hours_label</field>
+				<field type="Liquid Countdown: Minutes" editor_type="LINE">min_label</field>
+				<field type="Liquid Countdown: Seconds" editor_type="LINE">sec_label</field>
+			</fields>
+		</widget>
+		
+		<widget name="ld_counter">
+			<conditions>
+				<condition key="widgetType">ld_counter</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Counter: Title" editor_type="LINE">label</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_list">
+			<conditions>
+				<condition key="widgetType">ld_list</condition>
+			</conditions>
+			<fields-in-item items_of="list">
+				<field type="Liquid Custom List: Item" editor_type="LINE">list_item</field>
+			</fields-in-item>
+		</widget>
+		
+		<widget name="ld_custom_menu">
+			<conditions>
+				<condition key="widgetType">ld_custom_menu</condition>
+			</conditions>
+			<fields-in-item items_of="items">
+				<field type="Liquid Custom Menu: Label" editor_type="LINE">label</field>
+				<field type="Liquid Custom Menu: Bagde" editor_type="LINE">badge</field>
+			</fields-in-item>
+		</widget>
+
+		<widget name="ld_content_box">
+			<conditions>
+				<condition key="widgetType">ld_content_box</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Box: Title" editor_type="LINE">title</field>
+				<field type="Liquid Box: Subtitle" editor_type="LINE">subtitle</field>
+				<field type="Liquid Box: Label" editor_type="LINE">label</field>
+				<field type="Liquid Box: Content" editor_type="LINE">content2</field>
+			</fields>
+		</widget>
+
+		<widget name="hub_fancy_heading">
+			<conditions>
+				<condition key="widgetType">hub_fancy_heading</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Text" editor_type="LINE">content</field>
+			</fields>
+		</widget>
+		
+		<widget name="ld_fancy_image">
+			<conditions>
+				<condition key="widgetType">ld_fancy_image</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Image: Side Label" editor_type="LINE">label</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_flipbox">
+			<conditions>
+				<condition key="widgetType">ld_flipbox</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Flip Box: Front Content" editor_type="LINE">front_content</field>
+				<field type="Liquid Flip Box: Back Content" editor_type="LINE">back_content</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_header_cart">
+			<conditions>
+				<condition key="widgetType">ld_header_cart</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Header Cart: Cart Icon Text" editor_type="LINE">icon_text</field>
+				<field type="Liquid Header Cart: Cart Footer Text" editor_type="LINE">cart_text</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_header_dropdown">
+			<conditions>
+				<condition key="widgetType">ld_header_dropdown</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Header Dropdown: Trigger Label" editor_type="LINE">trigger_label</field>
+			</fields>
+			<fields-in-item items_of="items">
+				<field type="Liquid Header Dropdown: Item" editor_type="LINE">label</field>
+			</fields-in-item>
+		</widget>
+
+		<widget name="ld_header_fullproj">
+			<conditions>
+				<condition key="widgetType">ld_header_fullproj</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Header Fullscreen Project: Label" editor_type="LINE">label</field>
+			</fields>
+			<fields-in-item items_of="identities">
+				<field type="Liquid Header Fullscreen Project: Item Title" editor_type="LINE">text</field>
+			</fields-in-item>
+		</widget>
+
+		<widget name="ld_header_iconbox">
+			<conditions>
+				<condition key="widgetType">ld_header_iconbox</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Header Iconbox: Title" editor_type="LINE">title</field>
+				<field type="Liquid Header Iconbox: Content" editor_type="LINE">content</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_header_scroll_indicator">
+			<conditions>
+				<condition key="widgetType">ld_header_scroll_indicator</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Scroll Indicator: Text" editor_type="LINE">text</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_header_search">
+			<conditions>
+				<condition key="widgetType">ld_header_search</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Header Search: Search Icon Text" editor_type="LINE">icon_text</field>
+				<field type="Liquid Header Search: Description" editor_type="LINE">description</field>
+				<field type="Liquid Header Search: Title" editor_type="LINE">suggestions_title</field>
+				<field type="Liquid Header Search: Suggestion Text" editor_type="LINE">suggestions</field>
+				<field type="Liquid Header Search: Title 2" editor_type="LINE">suggestions_title2</field>
+				<field type="Liquid Header Search: Suggestion Text 2" editor_type="LINE">suggestions2</field>
+				<field type="Liquid Header Search: Title 3" editor_type="LINE">suggestions_title3</field>
+				<field type="Liquid Header Search: Suggestion Text 3" editor_type="LINE">suggestions3</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_header_trigger">
+			<conditions>
+				<condition key="widgetType">ld_header_trigger</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Header Trigger: Text" editor_type="LINE">text</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_hotspots">
+			<conditions>
+				<condition key="widgetType">ld_hotspots</condition>
+			</conditions>
+			<fields-in-item items_of="identities">
+				<field type="Liquid HotSpots: Title" editor_type="LINE">title</field>
+				<field type="Liquid HotSpots: Tooltip Content" editor_type="LINE">description</field>
+			</fields-in-item>
+		</widget>
+
+		<widget name="ld_icon_box_circle">
+			<conditions>
+				<condition key="widgetType">ld_icon_box_circle</condition>
+			</conditions>
+			<fields-in-item items_of="list">
+				<field type="Liquid Icon Box Circle: Title" editor_type="LINE">list_title</field>
+				<field type="Liquid Icon Box Circle: Content" editor_type="LINE">list_content</field>
+			</fields-in-item>
+		</widget>
+
+		<widget name="ld_icon_box">
+			<conditions>
+				<condition key="widgetType">ld_icon_box</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Icon Box: Title" editor_type="LINE">title</field>
+				<field type="Liquid Icon Box: Content" editor_type="LINE">content</field>
+				<field type="Liquid Icon Box: Label" editor_type="LINE">label</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_images_comparison">
+			<conditions>
+				<condition key="widgetType">ld_images_comparison</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Images Comparison: Before Title" editor_type="LINE">before_title</field>
+				<field type="Liquid Images Comparison: After Title" editor_type="LINE">after_title</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_image_text_overlay">
+			<conditions>
+				<condition key="widgetType">ld_image_text_overlay</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Image Text Overlay: Title" editor_type="LINE">title</field>
+				<field type="Liquid Image Text Overlay: Subtitle" editor_type="LINE">subtitle</field>
+				<field type="Liquid Image Text Overlay: Category" editor_type="LINE">category</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_imgtxt_slider">
+			<conditions>
+				<condition key="widgetType">ld_imgtxt_slider</condition>
+			</conditions>
+			<fields-in-item items_of="identities">
+				<field type="Liquid Image + Text Slider: Text" editor_type="LINE">text</field>
+			</fields-in-item>
+		</widget>
+
+		<widget name="ld_interactive_text_image">
+			<conditions>
+				<condition key="widgetType">ld_interactive_text_image</condition>
+			</conditions>
+			<fields-in-item items_of="items">
+				<field type="Liquid Interactive Text Image: Title" editor_type="LINE">title</field>
+			</fields-in-item>
+		</widget>
+
+		<widget name="ld_media_element">
+			<conditions>
+				<condition key="widgetType">ld_media_element</condition>
+			</conditions>
+			<fields-in-item items_of="items">
+				<field type="Liquid Media Elements: Title" editor_type="LINE">title</field>
+				<field type="Liquid Media Elements: Subtitle" editor_type="LINE">subtitle</field>
+			</fields-in-item>
+		</widget>
+
+		<widget name="ld_milestone">
+			<conditions>
+				<condition key="widgetType">ld_milestone</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Milestone Box: Title" editor_type="LINE">title</field>
+				<field type="Liquid Milestone Box: Date/Time" editor_type="LINE">date</field>
+				<field type="Liquid Milestone Box: Text" editor_type="LINE">content</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_modal_window">
+			<conditions>
+				<condition key="widgetType">ld_modal_window</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Modal Box: Title" editor_type="LINE">title</field>
+			</fields>
+		</widget>
+		
+		<widget name="ld_newsletter">
+			<conditions>
+				<condition key="widgetType">ld_newsletter</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Newsletter: Placehoder Email" editor_type="LINE">placeholder_text</field>
+				<field type="Liquid Newsletter: Placehoder Name" editor_type="LINE">placeholder_nametext</field>
+				<field type="Liquid Newsletter: Button Label" editor_type="LINE">btn_label</field>
+			</fields>
+		</widget>
+		
+		<widget name="ld_overlay_link">
+			<conditions>
+				<condition key="widgetType">ld_overlay_link</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Overlay Link: Cursor label" editor_type="LINE">cc_label</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_portfolio">
+			<conditions>
+				<condition key="widgetType">ld_portfolio</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Portfolio List: Filter Label-all" editor_type="LINE">filter_lbl_all</field>
+				<field type="Liquid Portfolio List: Filter Title" editor_type="LINE">filter_title</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_price_table">
+			<conditions>
+				<condition key="widgetType">ld_price_table</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Price Table: Title" editor_type="LINE">title</field>
+				<field type="Liquid Price Table: Subtitle" editor_type="LINE">subtitle</field>
+				<field type="Liquid Price Table: Description" editor_type="LINE">description</field>
+				<field type="Liquid Price Table: Price" editor_type="LINE">price</field>
+				<field type="Liquid Price Table: Tag Label" editor_type="LINE">featured_label</field>
+				<field type="Liquid Price Table: Content" editor_type="LINE">content</field>
+				<field type="Liquid Price Table: Footer Text" editor_type="LINE">footer_text</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_process_box">
+			<conditions>
+				<condition key="widgetType">ld_process_box</condition>
+			</conditions>
+			<fields-in-item items_of="list">
+				<field type="Liquid Process Box: Title" editor_type="LINE">title</field>
+				<field type="Liquid Process Box: Content" editor_type="LINE">content</field>
+			</fields-in-item>
+		</widget>
+
+		<widget name="ld_progressbar">
+			<conditions>
+				<condition key="widgetType">ld_progressbar</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Progress Bar: Label" editor_type="LINE">label</field>
+			</fields>
+		</widget>
+		
+		<widget name="ld_services_slideshow">
+			<conditions>
+				<condition key="widgetType">ld_services_slideshow</condition>
+			</conditions>
+			<fields-in-item items_of="items">
+				<field type="Liquid Services Slideshow: Title" editor_type="LINE">title</field>
+				<field type="Liquid Services Slideshow: Subtitle" editor_type="LINE">subtitle</field>
+				<field type="Liquid Services Slideshow: Description" editor_type="LINE">description</field>
+			</fields-in-item>
+		</widget>
+
+		<widget name="ld_promo">
+			<conditions>
+				<condition key="widgetType">ld_promo</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Promo: Title" editor_type="LINE">title</field>
+				<field type="Liquid Promo: Label" editor_type="LINE">label</field>
+				<field type="Liquid Promo: Content" editor_type="LINE">content</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_roadmap">
+			<conditions>
+				<condition key="widgetType">ld_roadmap</condition>
+			</conditions>
+			<fields-in-item items_of="list">
+				<field type="Liquid Roadmap: Title" editor_type="LINE">title</field>
+			</fields-in-item>
+		</widget>
+
+		<widget name="ld_header_sidedrawer">
+			<conditions>
+				<condition key="widgetType">ld_header_sidedrawer</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Side Drawer: Text" editor_type="LINE">label</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_slideshow_2">
+			<conditions>
+				<condition key="widgetType">ld_slideshow_2</condition>
+			</conditions>
+			<fields-in-item items_of="list">
+				<field type="Liquid Vertical Slider: Title" editor_type="LINE">list_title</field>
+			</fields-in-item>
+		</widget>
+
+		<widget name="ld_slideshow">
+			<conditions>
+				<condition key="widgetType">ld_slideshow</condition>
+			</conditions>
+			<fields-in-item items_of="identities">
+				<field type="Liquid Slideshow: Title" editor_type="LINE">title</field>
+				<field type="Liquid Slideshow: Description" editor_type="LINE">description</field>
+				<field type="Liquid Slideshow: Button Label" editor_type="LINE">btn_label</field>
+			</fields-in-item>
+		</widget>
+
+		<widget name="ld_tabs">
+			<conditions>
+				<condition key="widgetType">ld_tabs</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Tabs: Title" editor_type="LINE">title</field>
+			</fields>
+			<fields-in-item items_of="identities">
+				<field type="Liquid Tabs: Item Title" editor_type="LINE">item_title</field>
+				<field type="Liquid Tabs: Short Description" editor_type="LINE">item_description</field>
+				<field type="Liquid Tabs: Content" editor_type="LINE">item_content</field>
+			</fields-in-item>
+		</widget>
+
+		<widget name="ld_team_member">
+			<conditions>
+				<condition key="widgetType">ld_team_member</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Team Member: Name" editor_type="LINE">name</field>
+				<field type="Liquid Team Member: Position" editor_type="LINE">position</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_testimonial_carousel_stack">
+			<conditions>
+				<condition key="widgetType">ld_testimonial_carousel_stack</condition>
+			</conditions>
+			<fields-in-item items_of="list">
+				<field type="Liquid Testimonial Carousel Stack: Name" editor_type="LINE">title</field>
+				<field type="Liquid Testimonial Carousel Stack: Position" editor_type="LINE">position</field>
+				<field type="Liquid Testimonial Carousel Stack: Text" editor_type="LINE">content</field>
+				<field type="Liquid Testimonial Carousel Stack: Data/Time" editor_type="LINE">date_time</field>
+			</fields-in-item>
+		</widget>
+
+		<widget name="ld_testimonial_carousel">
+			<conditions>
+				<condition key="widgetType">ld_testimonial_carousel</condition>
+			</conditions>
+			<fields-in-item items_of="list">
+				<field type="Liquid Testimonial Carousel: Name" editor_type="LINE">title</field>
+				<field type="Liquid Testimonial Carousel: Position" editor_type="LINE">position</field>
+				<field type="Liquid Testimonial Carousel: Text" editor_type="LINE">content</field>
+				<field type="Liquid Testimonial Carousel: Data/Time" editor_type="LINE">date_time</field>
+			</fields-in-item>
+		</widget>
+
+		<widget name="ld_testimonial">
+			<conditions>
+				<condition key="widgetType">ld_testimonial</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Testimonial: Name" editor_type="LINE">title</field>
+				<field type="Liquid Testimonial: Position" editor_type="LINE">position</field>
+				<field type="Liquid Testimonial: Text" editor_type="LINE">content</field>
+				<field type="Liquid Testimonial: Data/Time" editor_type="LINE">date_time</field>
+			</fields>
+		</widget>
+
+		<widget name="ld_typewriter">
+			<conditions>
+				<condition key="widgetType">ld_typewriter</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Typewriter: Content" editor_type="LINE">content</field>
+			</fields>
+		</widget>
+
+		<widget name="liquid_products">
+			<conditions>
+				<condition key="widgetType">liquid_products</condition>
+			</conditions>
+			<fields>
+				<field type="Liquid Woo Products: Label-all" editor_type="LINE">filter_lbl_all</field>
+			</fields>
+		</widget>
+	</elementor-widgets>
+	<shortcodes>
+		<shortcode>
+			<tag>ld_button</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_accordion</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_animated_frame</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_asymmetric_slider</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>subtitle</attribute>
+				<attribute>description</attribute>
+				<attribute>btn_label</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_bananas_banner</tag>
+			<attributes>
+				<attribute>heading</attribute>
+				<attribute>heading2</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_banner</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>ib_title</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_blog</tag>
+			<attributes>
+				<attribute>filter_lbl_all</attribute>
+				<attribute>filter_title</attribute>
+				<attribute>link_label</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_carousel_stack</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>list_content</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_carousel</tag>
+			<attributes>
+				<attribute>list_content</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_countdown</tag>
+			<attributes>
+				<attribute>day_label</attribute>
+				<attribute>hours_label</attribute>
+				<attribute>min_label</attribute>
+				<attribute>sec_label</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_counter</tag>
+			<attributes>
+				<attribute>label</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_list</tag>
+			<attributes>
+				<attribute>list_item</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_custom_menu</tag>
+			<attributes>
+				<attribute>label</attribute>
+				<attribute>badge</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_content_box</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>subtitle</attribute>
+				<attribute>label</attribute>
+				<attribute>content2</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>hub_fancy_heading</tag>
+			<attributes>
+				<attribute encoding="allow_html_tags">content</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_fancy_image</tag>
+			<attributes>
+				<attribute>label</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_flipbox</tag>
+			<attributes>
+				<attribute>front_content</attribute>
+				<attribute>back_content</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_header_cart</tag>
+			<attributes>
+				<attribute>icon_text</attribute>
+				<attribute>cart_text</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_header_dropdown</tag>
+			<attributes>
+				<attribute>trigger_label</attribute>
+				<attribute>label</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_header_fullproj</tag>
+			<attributes>
+				<attribute>label</attribute>
+				<attribute>text</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_header_iconbox</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_header_scroll_indicator</tag>
+			<attributes>
+				<attribute>text</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_header_search</tag>
+			<attributes>
+				<attribute>icon_text</attribute>
+				<attribute>description</attribute>
+				<attribute>suggestions_title</attribute>
+				<attribute>suggestions</attribute>
+				<attribute>suggestions_title2</attribute>
+				<attribute>suggestions2</attribute>
+				<attribute>suggestions_title3</attribute>
+				<attribute>suggestions3</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_header_trigger</tag>
+			<attributes>
+				<attribute>text</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_hotspots</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>description</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_icon_box_circle</tag>
+			<attributes>
+				<attribute>list_title</attribute>
+				<attribute>list_content</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_icon_box</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>content</attribute>
+				<attribute>label</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_images_comparison</tag>
+			<attributes>
+				<attribute>before_title</attribute>
+				<attribute>after_title</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_imgtxt_slider</tag>
+			<attributes>
+				<attribute>text</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_media_element</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>subtitle</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_milestone</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>date</attribute>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_modal_window</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_newsletter</tag>
+			<attributes>
+				<attribute>placeholder_text</attribute>
+				<attribute>placeholder_nametext</attribute>
+				<attribute>btn_label</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_portfolio</tag>
+			<attributes>
+				<attribute>filter_lbl_all</attribute>
+				<attribute>filter_title</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_price_table</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>subtitle</attribute>
+				<attribute>description</attribute>
+				<attribute>price</attribute>
+				<attribute>featured_label</attribute>
+				<attribute>content</attribute>
+				<attribute>footer_text</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_process_box</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_promo</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>label</attribute>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_roadmap</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_header_sidedrawer</tag>
+			<attributes>
+				<attribute>label</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_slideshow_2</tag>
+			<attributes>
+				<attribute>list_title</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_slideshow</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>description</attribute>
+				<attribute>btn_label</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_tabs</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>item_title</attribute>
+				<attribute>item_description</attribute>
+				<attribute>item_content</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_team_member</tag>
+			<attributes>
+				<attribute>name</attribute>
+				<attribute>position</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_testimonial</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>position</attribute>
+				<attribute>content</attribute>
+				<attribute>date_time</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>ld_typewriter</tag>
+			<attributes>
+				<attribute>content</attribute>
+			</attributes>
+		</shortcode>
+		
+		<shortcode>
+			<tag>liquid_products</tag>
+			<attributes>
+				<attribute>filter_lbl_all</attribute>
+			</attributes>
+		</shortcode>
+
+	</shortcodes>
+</wpml-config>

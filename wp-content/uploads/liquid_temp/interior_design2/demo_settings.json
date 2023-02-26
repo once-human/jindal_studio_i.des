@@ -1,0 +1,18 @@
+{
+	"home_page_title": "Homepage",
+	"blog_page_title": "noblog",
+	"menus": {
+		"primary": "Primary"
+	},
+	"templates": {
+		"header-template": "Header",
+		"footer-template": "Footer"
+	},
+	"content_plugins": {
+		"archub-core": "ArcHub Core",
+		"elementor": "Elementor",
+		"archub-elementor-addons": "ArcHub Elementor Addons",
+		"archub-portfolio": "ArcHub Portfolio",
+		"contact-form-7": "Contact Form 7"
+	}
+}

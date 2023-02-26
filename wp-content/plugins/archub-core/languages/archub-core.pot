@@ -1,0 +1,771 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ArcHub Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-04 09:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: archub-core"
+
+#: extensions/post-views/post-views.php:107
+msgid " Views"
+msgstr ""
+
+#: architecture-hub-core.php:383
+#, php-format
+msgid ""
+"<a href=\"%s\">Log in</a> with your Envato account to take full advantage of "
+"<strong>One theme</strong>"
+msgstr ""
+
+#: extensions/post-likes/post-likes.php:142
+#, php-format
+msgid "<span class=\"post-likes-count\">%s</span> Likes"
+msgstr ""
+
+#: includes/liquid-base.php:56
+#, php-format
+msgid ""
+"<strong>Extension Load Fail for:</strong> %1$s<br>No such file \"%2$s\" "
+"exists."
+msgstr ""
+
+#: architecture-hub-core.php:312
+msgid "Activate theme"
+msgstr ""
+
+#: post-types/liquid-footer.php:15 post-types/liquid-header.php:17
+#: post-types/liquid-mega-menu.php:17 post-types/liquid-product-layout.php:17
+msgid "Add New"
+msgstr ""
+
+#: post-types/liquid-footer.php:14
+msgid "Add New Footer"
+msgstr ""
+
+#: post-types/liquid-header.php:16
+msgid "Add New Header"
+msgstr ""
+
+#: post-types/liquid-mega-menu.php:16
+msgid "Add New Mega Menu"
+msgstr ""
+
+#: post-types/liquid-product-layout.php:16
+msgid "Add New Product Layout"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:321
+msgid "Add Social Five Site Link"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:306
+msgid "Add Social Four Site Link"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:261
+msgid "Add Social Site Link"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:291
+msgid "Add Social Three Site Link"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:276
+msgid "Add Social Two Site Link"
+msgstr ""
+
+#: extras/liquid-extras.php:252
+msgid "ago"
+msgstr ""
+
+#: post-types/liquid-footer.php:13 post-types/liquid-header.php:15
+#: post-types/liquid-mega-menu.php:15 post-types/liquid-product-layout.php:15
+msgid "All Items"
+msgstr ""
+
+#: libs/liquid-api/LiquidEnvato.php:117
+msgid "An unknown API error occurred."
+msgstr ""
+
+#. Name of the plugin
+msgid "ArcHub Core"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:185
+msgid "Behance"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:186
+msgid "Behance Square"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:187
+msgid "Codepen"
+msgstr ""
+
+#: extras/liquid-extras.php:227
+msgid "day"
+msgstr ""
+
+#: extras/liquid-extras.php:237
+msgid "days"
+msgstr ""
+
+#: widgets/Liquid_Newsletter_Widget.class.php:113
+msgid "Default"
+msgstr ""
+
+#: libs/core-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:188
+msgid "Deviantart"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:189
+msgid "Digg"
+msgstr ""
+
+#: widgets/Liquid_Newsletter_Widget.class.php:11
+msgid "Display Newsletter Form"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:11
+msgid "Display socials sites links"
+msgstr ""
+
+#: widgets/Liquid_Latest_Posts_Widget.class.php:18
+msgid "Displays the most latest posts"
+msgstr ""
+
+#: widgets/Liquid_Trending_Posts_Widget.class.php:20
+msgid "Displays the most trending posts"
+msgstr ""
+
+#: widgets/Liquid_Next_Post_Widget.class.php:18
+msgid "Displays the next post"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:190
+msgid "Dribbble"
+msgstr ""
+
+#: post-types/liquid-footer.php:17
+msgid "Edit Footer"
+msgstr ""
+
+#: post-types/liquid-header.php:19
+msgid "Edit Header"
+msgstr ""
+
+#: post-types/liquid-mega-menu.php:19
+msgid "Edit Mega Menu"
+msgstr ""
+
+#: post-types/liquid-product-layout.php:19
+msgid "Edit Product Layout"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:191
+msgid "Facebook"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:192
+msgid "Facebook Square"
+msgstr ""
+
+#: libs/core-importer/LiquidThemeDemoImporter.php:86
+msgid ""
+"Failed to import slider data, Please make sure to install and activate "
+"slider revolution plugin first"
+msgstr ""
+
+#: post-types/liquid-footer.php:23 post-types/liquid-header.php:25
+#: post-types/liquid-mega-menu.php:25 post-types/liquid-product-layout.php:25
+msgid "Featured Image"
+msgstr ""
+
+#: post-types/liquid-footer.php:31 post-types/liquid-header.php:33
+#: post-types/liquid-mega-menu.php:33 post-types/liquid-product-layout.php:33
+msgid "Filter items list"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:193
+msgid "Flickr"
+msgstr ""
+
+#: post-types/liquid-footer.php:34
+msgid "Footer"
+msgstr ""
+
+#: post-types/liquid-footer.php:9 post-types/liquid-footer.php:10
+msgid "Footers"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:194
+msgid "Github"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:195
+msgid "Google"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:196
+msgid "Google Plus"
+msgstr ""
+
+#: post-types/liquid-header.php:36
+msgid "Header"
+msgstr ""
+
+#: post-types/liquid-header.php:11 post-types/liquid-header.php:12
+msgid "Headers"
+msgstr ""
+
+#: extras/liquid-extras.php:228
+msgid "hour"
+msgstr ""
+
+#: extras/liquid-extras.php:238
+msgid "hours"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://hub.liquid-themes.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/liquidthemes"
+msgstr ""
+
+#: includes/liquid-helpers.php:93
+#, php-format
+msgid "ID: <strong>%s</strong>, already exists in the system"
+msgstr ""
+
+#: includes/liquid-helpers.php:61 includes/liquid-helpers.php:110
+#, php-format
+msgid "ID: <strong>%s</strong>, didn't exists in the system"
+msgstr ""
+
+#: libs/core-importer/LiquidImporter.php:501
+msgid "Imported to Inactive"
+msgstr ""
+
+#: post-types/liquid-footer.php:27 post-types/liquid-header.php:29
+#: post-types/liquid-mega-menu.php:29 post-types/liquid-product-layout.php:29
+msgid "Insert into item"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:197
+msgid "Instagram"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Intelligent and Powerful Elements Plugin, exclusively for ArcHub WordPress "
+"Theme."
+msgstr ""
+
+#: post-types/liquid-footer.php:11 post-types/liquid-header.php:13
+#: post-types/liquid-mega-menu.php:13 post-types/liquid-product-layout.php:13
+msgid "Item Archives"
+msgstr ""
+
+#: post-types/liquid-footer.php:29 post-types/liquid-header.php:31
+#: post-types/liquid-mega-menu.php:31 post-types/liquid-product-layout.php:31
+msgid "Items list"
+msgstr ""
+
+#: post-types/liquid-footer.php:30 post-types/liquid-header.php:32
+#: post-types/liquid-mega-menu.php:32 post-types/liquid-product-layout.php:32
+msgid "Items list navigation"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:198
+msgid "Jsfiddle"
+msgstr ""
+
+#: extras/liquid-extras.php:252
+msgid "just now"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:199
+msgid "Line"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:200
+msgid "Linkedin"
+msgstr ""
+
+#. Author of the plugin
+msgid "Liquid Themes"
+msgstr ""
+
+#: widgets/Liquid_Newsletter_Widget.class.php:12
+msgid "Liquid Themes: Newsletter Form"
+msgstr ""
+
+#: widgets/Liquid_Trending_Posts_Widget.class.php:22
+msgid "Liquid Themes: Trending Posts"
+msgstr ""
+
+#: widgets/Liquid_Latest_Posts_Widget.class.php:19
+msgid "LiquidThemes: Latest Posts"
+msgstr ""
+
+#: widgets/Liquid_Next_Post_Widget.class.php:19
+msgid "LiquidThemes: Next Post"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:12
+msgid "LiquidThemes: Social Site Links"
+msgstr ""
+
+#: includes/liquid-base.php:56
+msgid "Load Extension"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:201
+msgid "Medium"
+msgstr ""
+
+#: post-types/liquid-mega-menu.php:36
+msgid "Mega Menu"
+msgstr ""
+
+#: post-types/liquid-mega-menu.php:11 post-types/liquid-mega-menu.php:12
+msgid "Mega Menus"
+msgstr ""
+
+#: extras/liquid-extras.php:229
+msgid "minute"
+msgstr ""
+
+#: extras/liquid-extras.php:239
+msgid "minutes"
+msgstr ""
+
+#: extras/liquid-extras.php:225
+msgid "month"
+msgstr ""
+
+#: extras/liquid-extras.php:235
+msgid "months"
+msgstr ""
+
+#: post-types/liquid-footer.php:16
+msgid "New Footer"
+msgstr ""
+
+#: post-types/liquid-header.php:18
+msgid "New Header"
+msgstr ""
+
+#: post-types/liquid-mega-menu.php:18
+msgid "New Mega Menu"
+msgstr ""
+
+#: post-types/liquid-product-layout.php:18
+msgid "New Product Layout"
+msgstr ""
+
+#: widgets/Liquid_Newsletter_Widget.class.php:124
+msgid "Newsletter:"
+msgstr ""
+
+#: extensions/post-likes/post-likes.php:90
+msgid "No Post ID"
+msgstr ""
+
+#: libs/core-importer/LiquidImporter.php:508
+msgid "No Title"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:184
+msgid "None"
+msgstr ""
+
+#: post-types/liquid-footer.php:21 post-types/liquid-header.php:23
+#: post-types/liquid-mega-menu.php:23 post-types/liquid-product-layout.php:23
+msgid "Not found"
+msgstr ""
+
+#: post-types/liquid-footer.php:22 post-types/liquid-header.php:24
+#: post-types/liquid-mega-menu.php:24 post-types/liquid-product-layout.php:24
+msgid "Not found in Trash"
+msgstr ""
+
+#: extensions/post-likes/post-likes.php:84
+msgid "Not permitted"
+msgstr ""
+
+#: extensions/post-views/post-views.php:103
+msgid "O Views"
+msgstr ""
+
+#: post-types/liquid-footer.php:12 post-types/liquid-header.php:14
+#: post-types/liquid-mega-menu.php:14 post-types/liquid-product-layout.php:14
+msgid "Parent Item:"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:202
+msgid "Paypal"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:203
+msgid "Pinterest"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:204
+msgid "Pinterest P"
+msgstr ""
+
+#: architecture-hub-core.php:305
+msgid "Please activate the ArcHub WordPress Theme to use ArcHub Core plugin."
+msgstr ""
+
+#: post-types/liquid-footer.php:7
+msgctxt "Post Type General Name"
+msgid "Footers"
+msgstr ""
+
+#: post-types/liquid-header.php:9
+msgctxt "Post Type General Name"
+msgid "Headers"
+msgstr ""
+
+#: post-types/liquid-mega-menu.php:9
+msgctxt "Post Type General Name"
+msgid "Mega Menus"
+msgstr ""
+
+#: post-types/liquid-product-layout.php:9
+msgctxt "Post Type General Name"
+msgid "Product Layouts"
+msgstr ""
+
+#: extensions/post-likes/post-likes.php:14
+#: extensions/post-likes/post-likes.php:95
+msgid "Post type not support likes."
+msgstr ""
+
+#: extensions/post-views/post-views.php:14
+msgid "Post type not support views."
+msgstr ""
+
+#: post-types/liquid-footer.php:8
+msgctxt "Post Type Singular Name"
+msgid "Footer"
+msgstr ""
+
+#: post-types/liquid-header.php:10
+msgctxt "Post Type Singular Name"
+msgid "Header"
+msgstr ""
+
+#: post-types/liquid-mega-menu.php:10
+msgctxt "Post Type Singular Name"
+msgid "Mega Menu"
+msgstr ""
+
+#: post-types/liquid-product-layout.php:10
+msgctxt "Post Type Singular Name"
+msgid "Product Layout"
+msgstr ""
+
+#: post-types/liquid-product-layout.php:36
+msgid "Product Layout"
+msgstr ""
+
+#: post-types/liquid-product-layout.php:11
+#: post-types/liquid-product-layout.php:12
+msgid "Product Layouts"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:205
+msgid "Reddit"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:206
+msgid "Reddit Square"
+msgstr ""
+
+#: post-types/liquid-footer.php:25 post-types/liquid-header.php:27
+#: post-types/liquid-mega-menu.php:27 post-types/liquid-product-layout.php:27
+msgid "Remove featured image"
+msgstr ""
+
+#: post-types/liquid-footer.php:20
+msgid "Search Footer"
+msgstr ""
+
+#: post-types/liquid-header.php:22
+msgid "Search Header"
+msgstr ""
+
+#: post-types/liquid-mega-menu.php:22
+msgid "Search Mega Menu"
+msgstr ""
+
+#: post-types/liquid-product-layout.php:22
+msgid "Search Product Layout"
+msgstr ""
+
+#: extras/liquid-extras.php:230
+msgid "second"
+msgstr ""
+
+#: extras/liquid-extras.php:240
+msgid "seconds"
+msgstr ""
+
+#: widgets/Liquid_Newsletter_Widget.class.php:110
+msgid "Select"
+msgstr ""
+
+#: post-types/liquid-footer.php:24 post-types/liquid-header.php:26
+#: post-types/liquid-mega-menu.php:26 post-types/liquid-product-layout.php:26
+msgid "Set featured image"
+msgstr ""
+
+#: libs/core-importer/LiquidImporter.php:401
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: libs/core-importer/LiquidImporter.php:423
+msgid "Site does not support widget"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:207
+msgid "Skype"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:208
+msgid "Slack"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:209
+msgid "Snapchat"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:265
+msgid "Social Site - 2:"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:280
+msgid "Social Site - 3:"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:295
+msgid "Social Site - 4:"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:310
+msgid "Social Site - 5:"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:250
+msgid "Social Site:"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:273
+msgid "Social URL - 2:"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:288
+msgid "Social URL - 3:"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:303
+msgid "Social URL - 4:"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:318
+msgid "Social URL - 5:"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:258
+msgid "Social URL:"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:210
+msgid "Sound Cloud"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:211
+msgid "Spotify"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:212
+msgid "Stack Overflow"
+msgstr ""
+
+#: widgets/Liquid_Newsletter_Widget.class.php:114
+msgid "Style 1"
+msgstr ""
+
+#: includes/liquid-helpers.php:347
+msgid "Taxonomies"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:213
+msgid "Telegram"
+msgstr ""
+
+#: libs/core-importer/LiquidImporter.php:257
+msgid ""
+"Theme options import data could not be read. Please try a different file."
+msgstr ""
+
+#: libs/core-importer/LiquidImporter.php:239
+msgid "Theme options Import file could not be found. "
+msgstr ""
+
+#: libs/core-importer/parsers.php:42 libs/core-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: libs/core-importer/parsers.php:67 libs/core-importer/parsers.php:72
+#: libs/core-importer/parsers.php:262 libs/core-importer/parsers.php:453
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: widgets/Liquid_Latest_Posts_Widget.class.php:142
+#: widgets/Liquid_Next_Post_Widget.class.php:125
+#: widgets/Liquid_Social_Followers_Widget.class.php:245
+#: widgets/Liquid_Newsletter_Widget.class.php:120
+#: widgets/Liquid_Trending_Posts_Widget.class.php:162
+msgid "Title:"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:214
+msgid "Trello"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:215
+msgid "Tumblr"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:216
+msgid "Twitch"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:217
+msgid "Twitter"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:218
+msgid "Twitter Square"
+msgstr ""
+
+#: post-types/liquid-footer.php:18
+msgid "Update Footer"
+msgstr ""
+
+#: post-types/liquid-header.php:20
+msgid "Update Header"
+msgstr ""
+
+#: post-types/liquid-mega-menu.php:20
+msgid "Update Mega Menu"
+msgstr ""
+
+#: post-types/liquid-product-layout.php:20
+msgid "Update Product Layout"
+msgstr ""
+
+#: post-types/liquid-footer.php:28 post-types/liquid-header.php:30
+#: post-types/liquid-mega-menu.php:30 post-types/liquid-product-layout.php:30
+msgid "Uploaded to this item"
+msgstr ""
+
+#: post-types/liquid-footer.php:26 post-types/liquid-header.php:28
+#: post-types/liquid-mega-menu.php:28 post-types/liquid-product-layout.php:28
+msgid "Use as featured image"
+msgstr ""
+
+#: post-types/liquid-footer.php:19
+msgid "View Footer"
+msgstr ""
+
+#: post-types/liquid-header.php:21
+msgid "View Header"
+msgstr ""
+
+#: post-types/liquid-mega-menu.php:21
+msgid "View Mega Menu"
+msgstr ""
+
+#: post-types/liquid-product-layout.php:21
+msgid "View Product Layout"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:219
+msgid "Vimeo"
+msgstr ""
+
+#: architecture-hub-core.php:390
+#, php-format
+msgid ""
+"We couldn't find <strong>One theme</strong> with the logged in account <a "
+"href=\"%s\">Log in with different account</a>"
+msgstr ""
+
+#: extras/liquid-extras.php:226
+msgid "week"
+msgstr ""
+
+#: extras/liquid-extras.php:236
+msgid "weeks"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:220
+msgid "WhatsApp"
+msgstr ""
+
+#: libs/core-importer/LiquidImporter.php:447
+msgid "Widget already exists"
+msgstr ""
+
+#: libs/core-importer/LiquidImporter.php:360
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: libs/core-importer/LiquidImporter.php:324
+msgid "Widget Import file could not be found. "
+msgstr ""
+
+#: libs/core-importer/LiquidImporter.php:497
+msgid "Widgets Imported"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:221
+msgid "Wordpress"
+msgstr ""
+
+#: extras/liquid-extras.php:224
+msgid "year"
+msgstr ""
+
+#: extras/liquid-extras.php:234
+msgid "years"
+msgstr ""
+
+#: widgets/Liquid_Social_Followers_Widget.class.php:222
+msgid "Youtube Play"
+msgstr ""

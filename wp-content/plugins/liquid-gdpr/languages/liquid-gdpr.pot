@@ -1,0 +1,256 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Liquid Events\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-27 13:41+0300\n"
+"POT-Revision-Date: Mon May 02 2016 16:55:27 GMT+0300 (EEST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: LiquidThemes Team\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/js/liquidEventsTable-vendors.min.js:13 assets/vendors/jquery-ui.min.js:6
+msgid ""
+"<div style='display:block;position:absolute;width:50px;height:50px;overflow:"
+"hidden;'><div style='height:100px;width:auto;'></div></div>"
+msgstr ""
+
+#: assets/js/liquidEventsTable-vendors.min.js:13 assets/vendors/jquery-ui.min.js:6
+msgid "body"
+msgstr ""
+
+#: assets/js/liquidEventsTable-vendors.min.js:13 assets/vendors/jquery-ui.min.js:6
+msgid "img[usemap='#"
+msgstr ""
+
+#: assets/js/liquidEventsTable-vendors.min.js:13 assets/vendors/jquery-ui.min.js:6
+msgid "<span>"
+msgstr ""
+
+#: assets/js/liquidEventsTable-vendors.min.js:13 assets/vendors/jquery-ui.min.js:6
+msgid "<ul>"
+msgstr ""
+
+#: assets/js/liquidEventsTable-vendors.min.js:13 assets/vendors/jquery-ui.min.js:6
+msgid "<div>"
+msgstr ""
+
+#: assets/js/liquidEventsTable-vendors.min.js:13 assets/vendors/jquery-ui.min.js:6
+msgid "<li>"
+msgstr ""
+
+#: includes/shortcode.class.php:46
+msgid "Please define slug"
+msgstr ""
+
+#: includes/shortcode.class.php:46
+msgid "Variable Missing"
+msgstr ""
+
+#: includes/shortcode.class.php:84
+msgid "LiquidThemes"
+msgstr ""
+
+#: includes/shortcode.class.php:160
+msgid "Select "
+msgstr ""
+
+#: includes/shortcode.class.php:163
+msgid "Enter  "
+msgstr ""
+
+#: includes/shortcode.class.php:189
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:161
+#, php-format
+msgid ""
+"Template file is missing for `%s` shortcode. Make sure you have `%s` file in "
+"your theme folder or default folder."
+msgstr ""
+
+#: includes/shortcode.class.php:476
+msgid "Element ID"
+msgstr ""
+
+#: includes/shortcode.class.php:477
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add unique id and then refer to it in your css file."
+msgstr ""
+
+#: includes/shortcode.class.php:478 includes/shortcode.class.php:487
+msgid "Extras"
+msgstr ""
+
+#: includes/shortcode.class.php:485
+msgid "Extra class name"
+msgstr ""
+
+#: includes/shortcode.class.php:486
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: liquid-events.php:142
+msgid "Please activate the WPBakery Page Builder to use the Liquid Events plugin."
+msgstr ""
+
+#: liquid-events.php:147
+msgid "Activate WPBakery Page Builder"
+msgstr ""
+
+#: liquid-events.php:185
+#, php-format
+msgid "ID: <strong>%s</strong>, didn't exists in the system"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:22
+msgid "Schedule Table Cell"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:23
+msgid "Add Schedule Table Cell"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:37
+#: shortcodes/schedule-table/liquid-schedule-table.php:39
+msgid "Title"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:44
+msgid "Add name/couch/trainer/teacher"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:46
+msgid "Info"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:51
+msgid "Add category for this cell"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:52
+msgid "Category"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:57
+msgid "Text"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:63
+msgid "Day of the Week"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:65
+msgid "Sunday"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:66
+msgid "Monday"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:67
+msgid "Tuesday"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:68
+msgid "Wednesday"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:69
+msgid "Thursday"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:70
+msgid "Friday"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:71
+msgid "Saturday"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:78
+msgid "From Time"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:79
+msgid "Add From time for ex. 08:00"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:87
+msgid "To Time"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:89
+msgid "Add From time for ex. 10:00"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:96
+msgid "Button label"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:98
+msgid "Add button label"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:103
+msgid "URL (Link)"
+msgstr ""
+
+#: shortcodes/schedule-table-cell/liquid-schedule-table-cell.php:105
+msgid "Add link to button."
+msgstr ""
+
+#: shortcodes/schedule-table/liquid-schedule-table.php:22
+msgid "Schedule Table"
+msgstr ""
+
+#: shortcodes/schedule-table/liquid-schedule-table.php:23
+msgid "Add schedule table container"
+msgstr ""
+
+#: shortcodes/schedule-table/liquid-schedule-table.php:45
+msgid "Description"
+msgstr ""
+
+#: shortcodes/schedule-table/liquid-schedule-table.php:52
+msgid "Title Color"
+msgstr ""
+
+#: shortcodes/schedule-table/liquid-schedule-table.php:53
+#: shortcodes/schedule-table/liquid-schedule-table.php:61
+#: shortcodes/schedule-table/liquid-schedule-table.php:70
+msgid "Design Options"
+msgstr ""
+
+#: shortcodes/schedule-table/liquid-schedule-table.php:59
+#: shortcodes/schedule-table/liquid-schedule-table.php:68
+msgid "Gradient Color"
+msgstr ""
+
+#: shortcodes/schedule-table/liquid-schedule-table.php:60
+#: shortcodes/schedule-table/liquid-schedule-table.php:69
+msgid "Background gradient color, will create gradient effect"
+msgstr ""
+
+#: shortcodes/schedule-table/liquid-schedule-table.php:102
+msgid "All Classes"
+msgstr ""
+
+#: shortcodes/schedule-table/view.php:35
+msgid "Drag/Scroll to see more"
+msgstr ""

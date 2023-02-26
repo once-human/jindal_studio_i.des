@@ -1,0 +1,1 @@
+.lqd-pf-overlay-bg-scale .lqd-pf-overlay-bg{font-size:55px;transform:scale(1);color:#fff}.lqd-pf-overlay-bg-scale .lqd-pf-overlay-bg i{display:inline-block;opacity:0;transition:opacity .65s,transform .65s;transition-timing-function:cubic-bezier(.23,1,.32,1);transform:translateX(-20px)}.lqd-pf-overlay-bg-scale:hover .lqd-pf-overlay-bg i{opacity:1;transform:translateX(0)}

@@ -1,0 +1,1 @@
+@keyframes iconRipple{0%{border-width:4px;transform:scale(1)}80%{border-width:1px;transform:scale(1.36)}to{opacity:0}}.iconbox-icon-ripple .iconbox-icon-container:before{content:"";display:inline-block;width:100%;height:100%;position:absolute;top:0;left:0;border-radius:inherit;border:1px solid var(--color-primary);animation:iconRipple 2s cubic-bezier(.23,1,.32,1) both infinite}

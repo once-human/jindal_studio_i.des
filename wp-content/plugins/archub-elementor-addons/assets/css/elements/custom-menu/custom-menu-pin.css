@@ -1,0 +1,1 @@
+.lqd-custom-menu[data-move-element]:not([data-inview]){opacity:0;visibility:hidden}.lqd-custom-menu[data-move-element]:not([data-inview]).element-was-moved{opacity:1;visibility:visible}

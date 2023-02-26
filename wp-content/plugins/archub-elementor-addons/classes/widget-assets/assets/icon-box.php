@@ -1,0 +1,25 @@
+<?php
+
+$iconbox = array(
+  'lqdsep-icon-box-base' => 'elements/icon-box/icon-box-base.css',
+  'lqdsep-icon-box-bubble' => 'elements/icon-box/icon-box-bubble.css',
+  'lqdsep-icon-box-button' => 'elements/icon-box/icon-box-button.css',
+  'lqdsep-icon-box-content-show-onhover' => 'elements/icon-box/icon-box-content-show-onhover.css',
+  'lqdsep-icon-box-content-show-onhover-bubble' => 'elements/icon-box/icon-box-content-show-onhover-bubble.css',
+  'lqdsep-icon-box-heading-arrow-onhover' => 'elements/icon-box/icon-box-heading-arrow-onhover.css',
+  'lqdsep-icon-box-icon-animated' => 'elements/icon-box/icon-box-icon-animated.css',
+  'lqdsep-icon-box-icon-gradient' => 'elements/icon-box/icon-box-icon-gradient.css',
+  'lqdsep-icon-box-icon-linked' => 'elements/icon-box/icon-box-icon-linked.css',
+  'lqdsep-icon-box-icon-linked-middle' => 'elements/icon-box/icon-box-icon-linked-middle.css',
+  'lqdsep-icon-box-icon-ripple' => 'elements/icon-box/icon-box-icon-ripple.css',
+  'lqdsep-icon-box-icon-shaped-base' => 'elements/icon-box/icon-box-icon-shaped-base.css',
+  'lqdsep-icon-box-icon-shaped-circle' => 'elements/icon-box/icon-box-icon-shaped-circle.css',
+  'lqdsep-icon-box-icon-shaped-custombg' => 'elements/icon-box/icon-box-icon-shaped-custombg.css',
+  'lqdsep-icon-box-icon-shaped-lozenge' => 'elements/icon-box/icon-box-icon-shaped-lozenge.css',
+  'lqdsep-icon-box-icon-svg' => 'elements/icon-box/icon-box-icon-svg.css',
+  'lqdsep-icon-box-inline' => 'elements/icon-box/icon-box-inline.css',
+  'lqdsep-icon-box-label-base' => 'elements/icon-box/icon-box-label-base.css',
+  'lqdsep-icon-box-label-incontent' => 'elements/icon-box/icon-box-label-incontent.css',
+  'lqdsep-icon-box-scale' => 'elements/icon-box/icon-box-scale.css',
+  'lqdsep-icon-box-side' => 'elements/icon-box/icon-box-side.css',
+);

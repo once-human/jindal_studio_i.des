@@ -1,0 +1,54 @@
+.lqd-admin-notices{
+    background-color: #fff;
+    padding: 20px;
+    color: #18191E;
+    border-radius: 2px;
+    font-size: 15px;
+    font-weight: 600;
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center;
+    overflow: hidden;
+    position: relative;
+    border: 1px solid #dedede;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(222, 222, 222);
+}
+
+.lqd-admin-notices figure {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    z-index: -1;
+    margin: 0;
+    width: 100%;
+}
+
+.lqd-admin-notices .badge{
+    background: #222;
+    font-size: 12px;
+    color: #fff;
+    padding:4px 10px;
+    border-radius: 3px;
+    margin-right: 1em;
+}
+
+.lqd-admin-notices .button{
+    margin-left: auto;
+    padding: 5px 20px 5px 30px;
+}
+
+.lqd-admin-notices .button span{
+    font-size: 10px;
+    line-height:3;
+}
+
+.lqd-admin-notices a{
+    color: #222;
+}
+
+.lqd-admin-notices .button.button-primary{
+    background: #222;
+    border: none;
+}

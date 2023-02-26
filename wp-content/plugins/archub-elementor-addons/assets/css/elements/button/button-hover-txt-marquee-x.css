@@ -1,0 +1,1 @@
+@keyframes btnTxtMarqueeX{to{transform:translateX(-200%)}}.btn-hover-txt-marquee-x .btn-txt:after{left:100%;transform:translate(100%,-50%)}.btn-hover-txt-marquee-x:hover .btn-txt{animation:btnTxtMarqueeX 2s linear infinite}

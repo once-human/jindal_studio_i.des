@@ -1,0 +1,1 @@
+.filter-list-inline li{display:inline-block}@media screen and (min-width:992px){.filter-list-inline li+li{margin-inline-start:2.5em}}@media screen and (max-width:991px){.filter-list-inline li{margin:0 .5em}}

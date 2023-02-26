@@ -1,0 +1,1 @@
+.iconbox-heading-arrow-onhover h3 svg{height:1em;opacity:0;transform:translateX(0);vertical-align:middle;transition:transform .5s,opacity .5s;transition-timing-function:cubic-bezier(.23,1,.32,1)}.elementor-widget-ld_icon_box:hover .iconbox-heading-arrow-onhover h3 svg{opacity:1;transform:translateX(.5em)}
